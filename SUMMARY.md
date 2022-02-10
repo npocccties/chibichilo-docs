@@ -32,4 +32,6 @@
 * [🌷 FAQ](other/faq.md)
 * [🌷 CHiBi-CHiLOの動作環境](other/system-requirements.md)
 
-* [LICENSE](LICENSE.md)
+***
+
+* [LICENSE](license.md)
