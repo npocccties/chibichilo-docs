@@ -14,18 +14,18 @@
 
 ## 基本操作 <a href="#operation" id="operation"></a>
 
+* [🌿 作成者の設定](operation/creator.md)
 * [🌿 トピックの並び変えと削除](operation/topic-order.md)
 * [🌿 トピックやブックの修正・削除](operation/fix.md)
 * [🌿 トピックやブックの検索](operation/search.md)
 * [🌿 トピックやブックの共有・再利用](operation/fork.md)
-* [🌿 LMSから提供するブックの切替](operation/linkswitch.md)
+* [🌿 LMSで提供するブックの変更](operation/linkswitch.md)
 * [🌿 トピック解説のマークダウン記法](operation/markdown.md)
 
 ## 拡張機能 <a href="#extension" id="extension"></a>
 
 * [🌳 Zoom動画を取り込む](extension/zoom.md)
 * [🌳 音声合成ビデオを作成する](extension/chilospeech.md)
-* [🌳 作成者の設定](extension/creator.md)
 
 ## その他 <a href="#other" id="other"></a>
 
