@@ -77,7 +77,7 @@ description: CHiBi-CHiLO登録データ（Json形式）を利用して，ブッ�
 
 ドラッグ＆ドロップすると，更新の確認画面が表示されます．画面下部の**「Commit directly to the main branch.」**が選択されている状態で，**「Commit changes」**をクリックします．
 
-![](<../../.gitbook/assets/image (70).png>)
+![](<../../.gitbook/assets/image (70) (1).png>)
 
 ### ❹ 更新の確認
 
