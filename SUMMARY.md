@@ -22,6 +22,7 @@
 * [🌿 LMSで提供するブックの変更](operation/linkswitch.md)
 * [🌿 トピック解説のマークダウン記法](operation/markdown.md)
 * [🌿 ビデオトリミング機能](operation/trim.md)
+* [🌿 動画の指定](operation/video-upload.md)
 
 ## 拡張機能 <a href="#extension" id="extension"></a>
 
