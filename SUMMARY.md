@@ -23,6 +23,7 @@
 * [🌿 トピック解説のマークダウン記法](operation/markdown.md)
 * [🌿 ビデオトリミング機能](operation/trim.md)
 * [🌿 動画の指定](operation/video-upload.md)
+* [🌿 ブックを公開する](operation/release)
 
 ## 拡張機能 <a href="#extension" id="extension"></a>
 
