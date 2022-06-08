@@ -1,5 +1,5 @@
 ---
-description: や・
+description: 
 ---
 
 # 🌿 トピックやブックの修正・削除
