@@ -13,9 +13,9 @@ description: 学習分析の機能についてご紹介します．
 # 教員の操作方法
 
 CHiBi-CHiLOの学習時間を正しく設定していない場合，意図しない挙動となる可能性があります．予め，学習時間の設定を行ってください．
-[あああ](../start/create/book.md#2-topikkuno)
 
 {% hint style="info" %}
+[あああ](../start/create/book.md#2-topikkuno)
 {% endhint %}
 
 
