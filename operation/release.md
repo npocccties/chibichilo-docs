@@ -80,3 +80,5 @@ CHiBi-CHiLO上部の「ブック」からブック一覧を表示します．
 
 ### ❸ LMSにURLを貼る
 指定したドメインのLMSにURLを設定します．
+
+![](<../.gitbook/assets/image (469).png>)
