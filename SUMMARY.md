@@ -14,6 +14,8 @@
   * [シェア](operation/book/share.md)
   * [公開](operation/release.md)
   * [作成者の設定](operation/creator.md)
+  * [キーワード](operation/keyword.md)
+  * [解説](operation/creator.md)
 
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
