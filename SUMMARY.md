@@ -22,8 +22,6 @@
   * [🔹 トピックから作成](start/create/topic.md)
   * [🔹 一括登録から作成](start/create/import.md)
 * [3.LMSから配信する](start/lnk.md)
-
-
 * [🌿 作成者の設定](operation/creator.md)
 * [🌿 トピックの並び変えと削除](operation/topic-order.md)
 * [🌿 トピックやブックの修正・削除](operation/fix.md)
