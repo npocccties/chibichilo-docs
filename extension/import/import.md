@@ -1,5 +1,5 @@
 ---
-description: CHiBi-CHiLO登録データ（Json形式）を利用して，ブックやトピックを一括で作成します．
+description: テンプレートファイル（エクセル形式）を利用して，CHiBi-CHiLO登録データ（Json形式）を作成します．
 ---
 
 # 🔹 一括登録から作成
