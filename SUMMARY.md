@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CHiBi-CHiLOマニュアル](README.md)
+* [設定ガイド](README.md)
 
 ## クイックスタート <a href="#start" id="start"></a>
 
