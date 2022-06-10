@@ -10,7 +10,7 @@
 
 * [ブック作成](operation/book/README.md)
   * [作成](operation/book/making.md)
-
+  * [検索・修正・削除](operation/book/edit.md)
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
 * [2.ビデオ教材を作成する](start/create/README.md)
@@ -33,6 +33,7 @@
 * [🌿 学習分析機能](operation/dashboard.md)
 
 ## 拡張機能 <a href="#extension" id="extension"></a>
+* [🌳 拡張機能](extension/README.md)
 * [🌳 一括登録](extension/import)
   * [🌳 一括登録](extension/import/register.md)
   * [🌳 一括登録用ファイルの作り方](extension/import/making.md)
