@@ -16,7 +16,7 @@
     * [作成者の設定](operation/book/creator.md)
     * [キーワード](operation/book/keyword.md)
     * [解説](operation/book/commentary.md)
-
+    * [コースへの提供](operation/book/offer.md)
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
 * [2.ビデオ教材を作成する](start/create/README.md)
