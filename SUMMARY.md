@@ -27,7 +27,7 @@
 * [🌿 学習分析機能](operation/dashboard.md)
 
 ## 拡張機能 <a href="#extension" id="extension"></a>
-* [🌳 一括登録](extension/import.md)
+* [🌳 一括登録](extension/import)
   * [🌳 一括登録](extension/import/register.md)
   * [🌳 一括登録用ファイルの作り方](extension/import/making.md)
 * [🌳 Zoom動画の取り込み](extension/zoom.md)
