@@ -31,7 +31,9 @@
 * [🌳 音声合成ビデオ教材の作成](extension/chilospeech.md)
 
 ## その他 <a href="#other" id="other"></a>
-
+* [🌷 一括登録](other/import.md)
+  * [🌷 一括登録](other/import/register.md)
+  * [🌷 一括登録用ファイルの作り方](other/import/making.md)
 * [🌷 FAQ](other/faq.md)
 * [🌷 CHiBi-CHiLOの動作環境](other/system-requirements.md)
 
