@@ -4,9 +4,13 @@
 
 ## 基本操作 <a href="#start" id="start"></a>
 
-* [1.編集画面にアクセスする](start/access.md)
+* [編集画面にアクセスする](start/access.md)
 
 ## コンテンツ作成 <a href="#operation" id="operation"></a>
+
+* [ブック作成](operation/book/README.md)
+  * [作成](operation/book/making.md)
+
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
 * [2.ビデオ教材を作成する](start/create/README.md)
