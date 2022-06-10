@@ -7,15 +7,15 @@
 * [編集画面にアクセスする](start/access.md)
 
 ## コンテンツ作成 <a href="#operation" id="operation"></a>
-
-* [ブック作成](operation/book/README.md)
-  * [作成](operation/book/making.md)
-  * [検索・修正・削除](operation/book/edit.md)
-  * [シェア](operation/book/share.md)
-  * [公開](operation/book/release.md)
-  * [作成者の設定](operation/book/creator.md)
-  * [キーワード](operation/book/keyword.md)
-  * [解説](operation/book/commentary.md)
+* [コンテンツ作成](operation/README.md)
+  * [ブック作成](operation/book/README.md)
+    * [作成](operation/book/making.md)
+    * [検索・修正・削除](operation/book/edit.md)
+    * [シェア](operation/book/share.md)
+    * [公開](operation/book/release.md)
+    * [作成者の設定](operation/book/creator.md)
+    * [キーワード](operation/book/keyword.md)
+    * [解説](operation/book/commentary.md)
 
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)

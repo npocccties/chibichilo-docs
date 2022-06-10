@@ -11,7 +11,17 @@ CHiBi-CHiLOを編集する際に必要な「外部ツールの作成」や「編
 CHiBi-CHiLOで基本となるブック作成やトピック作成について解説しています．また，学習分析機能についてもこちらで解説しています．
 
 * [ブック作成](operation/book/README.md)
-* [作成](operation/book/making.md)
+    * [作成](operation/book/making.md)
+  * [検索・修正・削除](operation/book/edit.md)
+  * [シェア](operation/book/share.md)
+  * [公開](operation/book/release.md)
+  * [作成者の設定](operation/book/creator.md)
+  * [キーワード](operation/book/keyword.md)
+  * [解説](operation/book/commentary.md)
+
+
+* [トピック作成](operation/topic/README.md)
+
 
 * [🌿 作成者の設定](operation/creator.md)
 * [🌿 トピックの並び変えと削除](operation/topic-order.md)
