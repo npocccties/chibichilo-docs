@@ -12,6 +12,9 @@
   * [作成](operation/book/making.md)
   * [検索・修正・削除](operation/book/edit.md)
   * [シェア](operation/book/share.md)
+  * [公開](operation/release.md)
+  * [作成者の設定](operation/creator.md)
+
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
 * [2.ビデオ教材を作成する](start/create/README.md)
