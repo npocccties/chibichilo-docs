@@ -27,8 +27,8 @@
 
 ## 拡張機能 <a href="#extension" id="extension"></a>
 
-* [🌳 Zoom動画を取り込む](extension/zoom.md)
-* [🌳 音声合成ビデオを作成する](extension/chilospeech.md)
+* [🌳 Zoom動画の取り込み](extension/zoom.md)
+* [🌳 音声合成ビデオ教材の作成](extension/chilospeech.md)
 
 ## その他 <a href="#other" id="other"></a>
 
