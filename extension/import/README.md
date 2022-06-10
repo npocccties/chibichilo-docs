@@ -4,10 +4,5 @@ description: CHiBi-CHiLO登録データ（Json形式）を利用した一括登�
 
 # 🔹 一括登録
 
-![一括登録方法](extension/import/register.md)Json形式のファイルを使用し，ブックを一括で登録します．
-![一括登録方法](extension/import/import.md)テンプレートファイル（エクセル形式）を利用してCHiBi-CHiLO登録用データを作成します．
-
-
-{% content-ref url="book.md" %}
-[book.md](book.md)
-{% endcontent-ref %}
+![一括登録方法](import/register.md)Json形式のファイルを使用し，ブックを一括で登録します．
+![一括登録方法](import/import.md)テンプレートファイル（エクセル形式）を利用してCHiBi-CHiLO登録用データを作成します．
