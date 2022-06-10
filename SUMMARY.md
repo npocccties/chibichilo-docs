@@ -24,6 +24,7 @@
 * [🌿 ビデオトリミング機能](operation/trim.md)
 * [🌿 動画の指定](operation/video-upload.md)
 * [🌿 ブック公開機能](operation/release.md)
+* [🌿 学習分析機能](operation/dashboard.md)
 
 ## 拡張機能 <a href="#extension" id="extension"></a>
 * [🌳 一括登録](extension/import.md)
