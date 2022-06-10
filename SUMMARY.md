@@ -26,14 +26,13 @@
 * [🌿 ブック公開機能](operation/release.md)
 
 ## 拡張機能 <a href="#extension" id="extension"></a>
-
+* [🌳 一括登録](extension/import.md)
+  * [🌳 一括登録](extension/import/register.md)
+  * [🌳 一括登録用ファイルの作り方](extension/import/making.md)
 * [🌳 Zoom動画の取り込み](extension/zoom.md)
 * [🌳 音声合成ビデオ教材の作成](extension/chilospeech.md)
 
 ## その他 <a href="#other" id="other"></a>
-* [🌷 一括登録](other/import.md)
-  * [🌷 一括登録](other/import/register.md)
-  * [🌷 一括登録用ファイルの作り方](other/import/making.md)
 * [🌷 FAQ](other/faq.md)
 * [🌷 CHiBi-CHiLOの動作環境](other/system-requirements.md)
 
