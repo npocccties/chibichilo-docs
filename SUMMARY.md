@@ -2,17 +2,19 @@
 
 * [設定ガイド](README.md)
 
-## クイックスタート <a href="#start" id="start"></a>
+## 基本操作 <a href="#start" id="start"></a>
+
+* [1.編集画面にアクセスする](start/access.md)
+
+## コンテンツ作成 <a href="#operation" id="operation"></a>
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
-* [1.編集画面にアクセスする](start/access.md)
 * [2.ビデオ教材を作成する](start/create/README.md)
   * [🔹 ブックから作成](start/create/book.md)
   * [🔹 トピックから作成](start/create/topic.md)
   * [🔹 一括登録から作成](start/create/import.md)
 * [3.LMSから配信する](start/lnk.md)
 
-## 基本操作 <a href="#operation" id="operation"></a>
 
 * [🌿 作成者の設定](operation/creator.md)
 * [🌿 トピックの並び変えと削除](operation/topic-order.md)
