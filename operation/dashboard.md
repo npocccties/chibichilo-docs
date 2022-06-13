@@ -30,6 +30,7 @@ CHiBi-CHiLOの学習時間を正しく設定していない場合，意図しな
 2. 画面上部の「学習分析」を選択します．
 
 3. 学習分析の画面が表示されます．
+
 ![](<../.gitbook/assets/dashboard_02.png>)
 
 #### 「ブック」タブ
@@ -78,11 +79,3 @@ CHiBi-CHiLOの学習時間を正しく設定していない場合，意図しな
 {% endhint %}
 
 ![](<../.gitbook/assets/dashboard_06.png>)
-
-## aaaa
-
-![](<../.gitbook/assets/xxx.png>)
-
-{% hint style="info" %}
-ヒント
-{% endhint %}
