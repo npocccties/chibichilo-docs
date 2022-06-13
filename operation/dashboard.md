@@ -58,7 +58,7 @@ CHiBi-CHiLOの学習時間を正しく設定していない場合，意図しな
 コース内のCHiBi-CHiLOに一度もアクセスしていない学習者は，「学習者」タブには表示されません．
 {% endhint %}
 
-![](<../.gitbook/assets/dashboard_0.png>)
+![](<../.gitbook/assets/dashboard_04.png>)
 
 ### 視聴分析対象の切り替え
 
