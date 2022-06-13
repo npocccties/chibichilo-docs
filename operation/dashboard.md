@@ -44,8 +44,7 @@ CHiBi-CHiLOの学習時間を正しく設定していない場合，意図しな
 「未開封」は，コース内のCHiBi-CHiLOに一度もアクセスしていない学習者は，人数に含まれません．
 {% endhint %}
 
-（画像）
-
+![](<../.gitbook/assets/dashboard_03.png>)
 
 #### 「学習者」タブ
 
