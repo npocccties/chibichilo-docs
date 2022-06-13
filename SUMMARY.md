@@ -24,7 +24,10 @@
       * [トピックの並び順の変更と削除](operation/book/topic_management/topic-order.md)
       * [トピックのプレビューと編集](operation/book/topic_management/topic-order.md)
   * [トピック作成](operation/topic/README.md)
-
+    * [作成](operation/topic/create.md)
+    * [検索・修正・削除](operation/topic/edit.md)
+    * [シェア](operation/topic/share.md)
+    * [🌿 ビデオのトリミング](operation/topic/trim.md)
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
 * [2.ビデオ教材を作成する](start/create/README.md)
