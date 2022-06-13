@@ -4,7 +4,7 @@
 
 ## 基本操作 <a href="#start" id="start"></a>
 
-* [編集画面にアクセスする](start/access.md)
+* [CHiBi-CHiLOへのアクセス](start/access.md)
 
 ## コンテンツ作成 <a href="#operation" id="operation"></a>
 * [コンテンツ作成](operation/README.md)

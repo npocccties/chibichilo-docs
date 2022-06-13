@@ -2,15 +2,13 @@
 description: ここではMoodleからCHiBi-CHiLOを利用する方法を説明します．
 ---
 
-# 1.編集画面にアクセスする
+# CHiBi-CHiLOへのアクセス
 
 CHiBi-CHiLOの編集画面にアクセスするには，まずLMS（Moodle）にログインし，編集権限があるコースに移動して，外部ツールを追加する必要があります．
 
 {% hint style="info" %}
 CHiBi-CHiLOに直接ログインしたり，編集権限のないコースからCHiBi-CHiLOの編集画面にアクセスすることはできません．
 {% endhint %}
-
-###
 
 ### ❶ Moodleにログイン
 
