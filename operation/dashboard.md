@@ -71,6 +71,14 @@ CHiBi-CHiLOの学習時間を正しく設定していない場合，意図しな
 
 ### 分析データをダウンロード
 
+「分析データをダウンロード」ボタンをクリックします．
+
+{% hint style="info" %}
+ダウンロード前に，「分析対象の切り替え」で選択した分析対象が反映されます．
+{% endhint %}
+
+![](<../.gitbook/assets/dashboard_06.png>)
+
 ## aaaa
 
 ![](<../.gitbook/assets/xxx.png>)
