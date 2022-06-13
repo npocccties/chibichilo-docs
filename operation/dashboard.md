@@ -79,11 +79,3 @@ CHiBi-CHiLOの学習時間を正しく設定していない場合，意図しな
 {% endhint %}
 
 ![](<../.gitbook/assets/dashboard_06.png>)
-
-## aaaa
-
-![](<../.gitbook/assets/xxx.png>)
-
-{% hint style="info" %}
-ヒント
-{% endhint %}
