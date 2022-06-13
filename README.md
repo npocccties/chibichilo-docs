@@ -1,5 +1,5 @@
 ---
-description:ここでは，CHiBi-CHiLOに関する操作や設定について解説しています．以下から必要な項目を選択してご覧ください．
+description: ここでは，CHiBi-CHiLOに関する操作や設定について解説しています．以下から必要な項目を選択してご覧ください．
 ---
 
 ## 基本操作 <a href="#start" id="start"></a>
