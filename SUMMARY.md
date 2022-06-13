@@ -19,6 +19,9 @@
     * [コースへの提供](operation/book/offer.md)
     * [ブック内のトピック管理](operation/book/topic_management/README.md)
      * [他のブックからトピックを再利用する](operation/book/topic_management/reuse-book.md)
+     * [トピックを再利用する](operation/book/topic_management/reuse-topic.md)
+     * [トピックを作成する](operation/book/topic_management/create-topic.md)
+
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
 * [2.ビデオ教材を作成する](start/create/README.md)
