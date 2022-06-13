@@ -7,7 +7,6 @@
 * [CHiBi-CHiLOへのアクセス](start/access.md)
 
 ## コンテンツ作成 <a href="#operation" id="operation"></a>
-
 * [コンテンツ作成](operation/README.md)
   * [ブック作成](operation/book/README.md)
     * [作成](operation/book/making.md)
@@ -18,18 +17,20 @@
     * [キーワード](operation/book/keyword.md)
     * [解説](operation/book/commentary.md)
     * [コースへの提供](operation/book/offer.md)
-    * [ブック内のトピック管理](operation/book/topic\_management/README.md)
-      * [他のブックからトピックを再利用する](operation/book/topic\_management/reuse-book.md)
-      * [トピックを再利用する](operation/book/topic\_management/reuse-topic.md)
-      * [トピックを作成する](operation/book/topic\_management/create-topic.md)
-      * [トピックの並び順の変更と削除](operation/book/topic\_management/topic-order.md)
-      *
+    * [ブック内のトピック管理](operation/book/topic_management/README.md)
+      * [他のブックからトピックを再利用する](operation/book/topic_management/reuse-book.md)
+      * [トピックを再利用する](operation/book/topic_management/reuse-topic.md)
+      * [トピックを作成する](operation/book/topic_management/create-topic.md)
+      * [トピックの並び順の変更と削除](operation/book/topic_management/topic-order.md)
+      * [トピックのプレビューと編集](operation/book/topic_management/topic-order.md)
   * [トピック作成](operation/topic/README.md)
+
+
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
 * [2.ビデオ教材を作成する](start/create/README.md)
-  * [🔹 ブックから作成](operation/create/bukkukara.md)
+  * [🔹 ブックから作成](start/create/book.md)
   * [🔹 トピックから作成](start/create/topic.md)
-  * [🔹 一括登録から作成](operation/create/kara.md)
+  * [🔹 一括登録から作成](start/create/import.md)
 * [3.LMSから配信する](start/lnk.md)
 * [🌿 作成者の設定](operation/creator.md)
 * [🌿 トピックの並び変えと削除](operation/topic-order.md)
@@ -44,16 +45,14 @@
 * [🌿 学習分析機能](operation/dashboard.md)
 
 ## 拡張機能 <a href="#extension" id="extension"></a>
-
 * [🌳 拡張機能](extension/README.md)
-* [🌳 一括登録](extension/import/README.md)
+* [🌳 一括登録](extension/import)
   * [🌳 一括登録](extension/import/register.md)
-  * [🌳 一括登録用ファイルの作り方](extension/import/fairunori.md)
+  * [🌳 一括登録用ファイルの作り方](extension/import/making.md)
 * [🌳 Zoom動画の取り込み](extension/zoom.md)
 * [🌳 音声合成ビデオ教材の作成](extension/chilospeech.md)
 
 ## その他 <a href="#other" id="other"></a>
-
 * [🌷 FAQ](other/faq.md)
 * [🌷 CHiBi-CHiLOの動作環境](other/system-requirements.md)
 
