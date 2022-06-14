@@ -19,7 +19,7 @@ description: ブック作成ではCHiBi-CHiLOで使用するブック機能の�
 
 CHiBi-CHiLOは「トピック」「ブック」「コース」の3階層でビデオ教材を管理しています．
 
-![](<../.gitbook/assets/image (411).png>)
+![](<../../.gitbook/assets/image (411).png>)
 
 ### コース
 
