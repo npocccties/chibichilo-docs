@@ -28,6 +28,8 @@
     * [検索・修正・削除](operation/topic/edit.md)
     * [シェア](operation/topic/share.md)
     * [🌿 ビデオのトリミング](operation/topic/trim.md)
+    * [🌿 字幕の追加](operation/topic/subtitles.md)
+
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
 * [2.ビデオ教材を作成する](start/create/README.md)
