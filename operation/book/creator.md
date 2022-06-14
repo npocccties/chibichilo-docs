@@ -18,17 +18,8 @@ CHiBi-CHiLOでは，任意のユーザーをブックやトピックの作成者
 
 作成者の設定はブックやトピックの新規作成時や編集時におこないます．新規作成や編集の開始方法は以下のページを参照してください．
 
-{% content-ref url="../start/create/book.md" %}
-[book.md](../start/create/book.md)
-{% endcontent-ref %}
-
-{% content-ref url="../start/create/topic.md" %}
-[topic.md](../start/create/topic.md)
-{% endcontent-ref %}
-
-{% content-ref url="../topic/fix.md" %}
-[fix.md](../topic/fix.md)
-{% endcontent-ref %}
+  * [作成](operation/book/create.md)
+  * [検索・修正・削除](operation/book/edit.md)
 
 ### （2）作成者を設定
 
