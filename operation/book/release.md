@@ -9,30 +9,30 @@ description: >-
 
 ブックの作成・編集画面でブックを公開するにチェックをします．
 
-![](<../.gitbook/assets/image (455).png>)
+![](<../../.gitbook/assets/image (455).png>)
 
 公開に関する設定項目が表示されます．
 
-![](<../.gitbook/assets/image (456).png>)
+![](<../../.gitbook/assets/image (456).png>)
 ## （1） 公開期限を設定する
 公開する期限を指定します．公開期限を指定しない場合は，制限なしでの公開となります．
 
 ### ❶ アイコンをクリック
 公開期限の入力欄の右端にあるカレンダーのアイコンをクリックします．
 
-![](<../.gitbook/assets/image (457).png>)
+![](<../../.gitbook/assets/image (457).png>)
 ### ❷ 年月日をクリック
 カレンダーが表示されるので，公開期限の年月日を選択してクリックします．
 
-![](<../.gitbook/assets/image (458).png>)
+![](<../../.gitbook/assets/image (458).png>)
 ### ❸ 時間をクリック
 続いて24時間表示の時計が表示されるので設定する時間をクリックします．
 
-![](<../.gitbook/assets/image (459).png>)
+![](<../../.gitbook/assets/image (459).png>)
 ### ❹ 分をクリック
 続いて分表示の時計が表示されるので設定する時間をクリックします．
 
-![](<../.gitbook/assets/image (460).png>)
+![](<../../.gitbook/assets/image (460).png>)
 
 {% hint style="info" %}
 直接入力することでも期限を設定します．年月日時分は自動で表示されるので，それぞれの数字を入力します．
@@ -44,17 +44,17 @@ description: >-
 ### ❶ ドメインを入力する
 公開するLMSのドメインを入力します．
 
-![](<../.gitbook/assets/image (461).png>)
+![](<../../.gitbook/assets/image (461).png>)
 
 ### ❷ ドメインを追加する
 エンターを押すか，入力欄の＋ボタンをクリックしてドメインの情報を確定します．
 （入力しただけではドメインは追加されていないので注意）
 
-![](<../.gitbook/assets/image (462).png>)
+![](<../../.gitbook/assets/image (462).png>)
 
 登録されているドメインは，入力欄の上に青枠に囲まれて表示されます．
 
-![](<../.gitbook/assets/image (463).png>)
+![](<../../.gitbook/assets/image (463).png>)
 
 ## 公開用URLを伝える
 公開用URLを伝えることで，公開期限と公開範囲に設定されている方は，CHiBi-CHiLOをご視聴いただけます．
@@ -62,11 +62,11 @@ description: >-
 ### ❶ ブック一覧を表示
 CHiBi-CHiLO上部の「ブック」からブック一覧を表示します．
 
-![](<../.gitbook/assets/image (464).png>)
+![](<../../.gitbook/assets/image (464).png>)
 ### ❷ 公開用URLをコピー
 公開中のブックはブックの右上に地球のアイコンが表示されています．アイコンをクリックすると，公開用URLがコピーされます．
 
-![](<../.gitbook/assets/image (465).png>)
+![](<../../.gitbook/assets/image (465).png>)
 
 ### ❸ 公開用URLを伝える
 公開用URLを伝えます．
@@ -75,13 +75,13 @@ CHiBi-CHiLO上部の「ブック」からブック一覧を表示します．
 ### ❶ ブック一覧を表示
 CHiBi-CHiLO上部の「ブック」からブック一覧を表示します．
 
-![](<../.gitbook/assets/image (464).png>)
+![](<../../.gitbook/assets/image (464).png>)
 ### ❷ 公開用URLをコピー
 公開中のブックはブックの右上に地球のアイコンが表示されています．アイコンをクリックすると，公開用URLがコピーされます．
 
-![](<../.gitbook/assets/image (465).png>)
+![](<../../.gitbook/assets/image (465).png>)
 
 ### ❸ LMSにURLを貼る
 指定したドメインのLMSにURLを設定します．
 
-![](<../.gitbook/assets/image (469).png>)
+![](<../../.gitbook/assets/image (469).png>)
