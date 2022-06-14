@@ -29,6 +29,8 @@
     * [シェア](operation/topic/share.md)
     * [🌿 ビデオのトリミング](operation/topic/trim.md)
     * [🌿 字幕の追加](operation/topic/subtitles.md)
+    * [🌿 作成者の設定](operation/topic/author.md)
+
 
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
