@@ -8,7 +8,7 @@
 
 ## コンテンツ作成 <a href="#operation" id="operation"></a>
 * [ブック作成](operation/book/README.md)
-  * [作成](operation/book/making.md)
+  * [作成](operation/book/create.md)
   * [検索・修正・削除](operation/book/edit.md)
   * [シェア](operation/book/share.md)
   * [公開](operation/book/release.md)
