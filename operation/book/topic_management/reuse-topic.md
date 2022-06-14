@@ -9,9 +9,7 @@ description: >-
 
 ❶-2 他の教員のブックを利用する場合は「自分以外」を選択します．以下を参照し，利用したいブックを検索してください．
 
-{% content-ref url="search.md" %}
-[search.md](search.md)
-{% endcontent-ref %}
+* [検索・修正・削除](operation/book/edit.md)
 
 ❶-3 講義で利用したいブックのリンクマークをクリックします．
 
