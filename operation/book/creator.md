@@ -2,7 +2,7 @@
 description: CHiBi-CHiLOの作成者の設定についてご紹介します．
 ---
 
-# 🌿 作成者の設定
+# 作成者の設定
 
 ## 作成者の設定について
 
@@ -26,8 +26,8 @@ CHiBi-CHiLOでは，任意のユーザーをブックやトピックの作成者
 [topic.md](../start/create/topic.md)
 {% endcontent-ref %}
 
-{% content-ref url="fix.md" %}
-[fix.md](fix.md)
+{% content-ref url="../topic/fix.md" %}
+[fix.md](../topic/fix.md)
 {% endcontent-ref %}
 
 ### （2）作成者を設定

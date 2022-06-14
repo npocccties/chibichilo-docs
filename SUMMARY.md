@@ -7,6 +7,7 @@
 * [CHiBi-CHiLOへのアクセス](start/access.md)
 
 ## コンテンツ作成 <a href="#operation" id="operation"></a>
+
 * [ブック作成](operation/book/README.md)
   * [作成](operation/book/create.md)
   * [検索・修正・削除](operation/book/edit.md)
@@ -16,12 +17,12 @@
   * [キーワード](operation/book/keyword.md)
   * [解説](operation/book/commentary.md)
   * [コースへの提供](operation/book/offer.md)
-  * [ブック内のトピック管理](operation/book/topic_management/README.md)
-    * [他のブックからトピックを再利用する](operation/book/topic_management/reuse-book.md)
-    * [トピックを再利用する](operation/book/topic_management/reuse-topic.md)
-    * [トピックを作成する](operation/book/topic_management/create-topic.md)
-    * [トピックの並び順の変更と削除](operation/book/topic_management/topic-order.md)
-    * [トピックのプレビューと編集](operation/book/topic_management/topic-edit.md)
+  * [ブック内のトピック管理](operation/book/topic\_management/README.md)
+    * [他のブックからトピックを再利用する](operation/book/topic\_management/reuse-book.md)
+    * [トピックを再利用する](operation/book/topic\_management/reuse-topic.md)
+    * [トピックを作成する](operation/book/topic\_management/create-topic.md)
+    * [トピックの並び順の変更と削除](operation/book/topic\_management/topic-order.md)
+    * [トピックのプレビューと編集](operation/book/topic\_management/topikkunopurebyto.md)
 * [トピック作成](operation/topic/README.md)
   * [作成](operation/topic/create.md)
   * [検索・修正・削除](operation/topic/edit.md)
@@ -35,6 +36,7 @@
 * [学習分析機能](operation/dashboard.md)
 
 ## 拡張機能 <a href="#extension" id="extension"></a>
+
 * [一括登録](extension/import/README.md)
   * [一括登録](extension/import/register.md)
   * [一括登録用ファイルの作り方](extension/import/create.md)
@@ -42,6 +44,7 @@
 * [音声合成ビデオ教材の作成](extension/chilospeech.md)
 
 ## その他 <a href="#other" id="other"></a>
+
 * [FAQ](other/faq.md)
 * [CHiBi-CHiLOの動作環境](other/system-requirements.md)
 
