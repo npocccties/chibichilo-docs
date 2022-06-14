@@ -36,7 +36,7 @@ CHiBi-CHiLOでは，任意のユーザーをブックやトピックの作成者
 
 なお，作成者は設定した時点で反映されます．
 
-![](<../.gitbook/assets/image (69).png>)
+![](<../../.gitbook/assets/image (69).png>)
 
 ### （3）設定の確認
 
@@ -44,7 +44,7 @@ CHiBi-CHiLOでは，任意のユーザーをブックやトピックの作成者
 
 同様に登録することで，複数の作成者を設定可能です．
 
-![](<../.gitbook/assets/image (172).png>)
+![](<../../.gitbook/assets/image (172).png>)
 
 ### （4）作成者の種類を設定
 
@@ -52,7 +52,7 @@ CHiBi-CHiLOでは，任意のユーザーをブックやトピックの作成者
 
 機能として違いはないため，お好みで設定してください．
 
-![](<../.gitbook/assets/image (198).png>)
+![](<../../.gitbook/assets/image (198).png>)
 
 ## 作成者設定の削除
 
@@ -60,10 +60,10 @@ CHiBi-CHiLOでは，任意のユーザーをブックやトピックの作成者
 
 各作成者の右側にあるー付きのアイコン（この教員を取り除く）をクリックします．
 
-![](<../.gitbook/assets/image (105).png>)
+![](<../../.gitbook/assets/image (105).png>)
 
 ### （2）削除の確認
 
 ーをクリックした作成者の情報が削除されます．
 
-![](<../.gitbook/assets/image (338).png>)
+![](<../../.gitbook/assets/image (338).png>)
