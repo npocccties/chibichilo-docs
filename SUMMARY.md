@@ -30,7 +30,10 @@
     * [🌿 ビデオのトリミング](operation/topic/trim.md)
     * [🌿 字幕の追加](operation/topic/subtitles.md)
     * [🌿 作成者の設定](operation/topic/author.md)
-
+    * [🌿 キーワードの設定](operation/topic/keyword.md)
+    * [🌿 解説の設定](operation/topic/commentary.md)
+    * [🌿 ライセンスの設定](operation/topic/license-settings.md)
+* [🌿 学習分析機能](operation/dashboard.md)
 
 
 * [0. CHiBi-CHiLOの階層構造](start/structure.md)
