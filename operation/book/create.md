@@ -7,9 +7,7 @@ description: >-
 
 CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
 
-{% content-ref url="../access.md" %}
-[access.md](../access.md)
-{% endcontent-ref %}
+* [CHiBi-CHiLOへのアクセス](start/access.md)
 
 ## 1. ブックの作成
 
