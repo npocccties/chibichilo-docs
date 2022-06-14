@@ -16,7 +16,7 @@ description: 学習分析の機能についてご紹介します．
 
 ## 教員の操作方法
 
-{% hint style="info" %}
+{% hint style="warning" %}
 CHiBi-CHiLOの学習時間を正しく設定していない場合，意図しない挙動となる可能性があります．CHiLO-Speechを使った教材作成等で，一括登録でCHiBi-CHiLOを登録した場合は，予め，学習時間の設定を行ってください．
 
 [学習時間の設定 - CHiLO-Speechマニュアル](https://docs.cccties.org/chilospeech/chibi-chilo/learning-time)
@@ -39,7 +39,7 @@ CHiBi-CHiLOの学習時間を正しく設定していない場合，意図しな
 
 - 完了：ブック内のトピックを全て視聴完了している学習者の人数
 - 未完了：ブック内のトピックを一部視聴している学習者の人数
-- 未開封：ブック内のトピックが全て視聴していないの学習者の人数
+- 未開封：ブック内のトピックを全て視聴していないの学習者の人数
 
 {% hint style="info" %}
 「未開封」は，コース内のCHiBi-CHiLOに一度もアクセスしていない学習者は，人数に含まれません．
