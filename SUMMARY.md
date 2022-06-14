@@ -51,7 +51,7 @@
 * [🌳 拡張機能](extension/README.md)
 * [🌳 一括登録](extension/import)
   * [🌳 一括登録](extension/import/register.md)
-  * [🌳 一括登録用ファイルの作り方](extension/import/making.md)
+  * [🌳 一括登録用ファイルの作り方](extension/import/create.md)
 * [🌳 Zoom動画の取り込み](extension/zoom.md)
 * [🌳 音声合成ビデオ教材の作成](extension/chilospeech.md)
 
