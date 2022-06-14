@@ -21,7 +21,7 @@
     * [トピックを再利用する](operation/book/topic_management/reuse-topic.md)
     * [トピックを作成する](operation/book/topic_management/create-topic.md)
     * [トピックの並び順の変更と削除](operation/book/topic_management/topic-order.md)
-    * [トピックのプレビューと編集](operation/book/topic_management/topic-order.md)
+    * [トピックのプレビューと編集](operation/book/topic_management/topic-edit.md)
 * [トピック作成](operation/topic/README.md)
   * [作成](operation/topic/create.md)
   * [検索・修正・削除](operation/topic/edit.md)
