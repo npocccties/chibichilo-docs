@@ -32,7 +32,7 @@ description:
 
 動画の下に表示する解説文を入力して下さい．マークダウン（GitHub Flavored Markdown）に対応していますので，リンクや文字の強調，箇条書きの設定が可能です．マークダウン書式については，以下をご覧下さい．
 
-* [解説の設定](../../topic/commentary.md)
+* [解説の設定](../../../operation/topic/commentary.md)
 
 ![](<../../../.gitbook/assets/image (310).png>)
 
