@@ -8,4 +8,5 @@ description: ブック作成ではCHiBi-CHiLOで使用するブック機能の�
 
 ![](<../../.gitbook/assets/image (470).png>)
 
-シェアされていることで，トピックを再利用することが出来るようになります． [トピックやブックの共有・再利用](../book/topic_management/reuse-topic.md)
+シェアされていることで，トピックを再利用することが出来るようになります． 
+* [トピックやブックの共有・再利用](../book/topic_management/reuse-topic.md)
