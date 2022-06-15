@@ -6,5 +6,5 @@ description: >-
 
 # 一括登録
 
-* [一括登録](extension/import/register.md)：Json形式のファイルを使用し，ブックを一括で登録します．
-* [一括登録用ファイルの作り方](extension/import/create.md)：テンプレートファイル（エクセル形式）を利用してCHiBi-CHiLO登録用データを作成します．
+* [一括登録](register.md)：Json形式のファイルを使用し，ブックを一括で登録します．
+* [一括登録用ファイルの作り方](create.md)：テンプレートファイル（エクセル形式）を利用してCHiBi-CHiLO登録用データを作成します．
