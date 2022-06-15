@@ -4,8 +4,8 @@ description: ブック作成ではCHiBi-CHiLOで使用するブック機能の�
 
 # シェア
 
-\| 他の教員にシェア | チェックを入れると他の教員とブックを共有することができます（[参照](broken-reference)）
+「他の教員にシェア」にチェックを入れるとトピックを共有することができます（[参照](edit.md)）
 
 ![](<../../.gitbook/assets/image (470).png>)
 
-シェアされていることで，トピックを再利用することが出来るようになります． [トピックやブックの共有・再利用](operation/book/topic\_management/reuse-topic.md)
+シェアされていることで，トピックを再利用することが出来るようになります． [トピックやブックの共有・再利用](../book/topic_management/reuse-topic.md)
