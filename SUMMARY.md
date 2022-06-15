@@ -18,7 +18,6 @@
   * [解説の設定](operation/book/commentary.md)
   * [コースへの提供](operation/book/offer.md)
   * [ブック内のトピック管理](operation/book/topic\_management/README.md)
-    * [他のブックからトピックを再利用する](operation/book/topic\_management/reuse-book.md)
     * [トピックを再利用する](operation/book/topic\_management/reuse-topic.md)
     * [トピックを作成する](operation/book/topic\_management/create-topic.md)
     * [トピックの並び順の変更と削除](operation/book/topic\_management/topic-order.md)
