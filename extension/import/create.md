@@ -65,44 +65,44 @@ description: テンプレートファイル（エクセル形式）を利用し�
 
 ### ❷ 登録リストのアップロード
 
-\*\*「excel 」**ディレクトリ内にドラッグ＆ドロップします．元から**"sample.xlsx"\*\*が入っていますが上書きします．
+「excel 」ディレクトリ内にドラッグ＆ドロップします．元から"sample.xlsx"が入っていますが上書きします．
 
 ![](<../../.gitbook/assets/image (389).png>)
 
 ### ❸ アップロードの反映
 
-ドラッグ＆ドロップすると，更新の確認画面が表示されます．画面下部の\*\*「Commit directly to the main branch.」**が選択されている状態で，**「Commit changes」\*\*をクリックします．
+ドラッグ＆ドロップすると，更新の確認画面が表示されます．画面下部の「Commit directly to the main branch.」**が選択されている状態で，**「Commit changes」をクリックします．
 
 ![](<../../.gitbook/assets/image (70) (1).png>)
 
 ### ❹ 更新の確認
 
-最初の画面が表示されるので\*\*「excel」\*\*ディレクトリを開くと，ドラッグ＆ドロップしたファイルが登録されています．
+最初の画面が表示されるので「excel」ディレクトリを開くと，ドラッグ＆ドロップしたファイルが登録されています．
 
 ![](<../../.gitbook/assets/image (286).png>)
 
 ### ❺ Actionsタブに移動
 
-GitHubの\*\*「Actions」タブ\*\*をクリックします．
+GitHubの「Actions」タブをクリックします．
 
 ![](<../../.gitbook/assets/image (292).png>)
 
 ### ❻ 動画の変換
 
-❻-1更新者と❻-2更新時間を確認し，❻-3の\*\*「Add files via upload」の左のアイコン\*\*を確認します．❸が黄色い間は変換中です．変換が終了するとアイコンが緑色になります．
+❻-1更新者と❻-2更新時間を確認し，❻-3の「Add files via upload」の左のアイコンを確認します．❸が黄色い間は変換中です．変換が終了するとアイコンが緑色になります．
 
 ![](<../../.gitbook/assets/image (307).png>)
 
 ### ❼ **Add files via uploadをクリック**
 
-❻-3の表示が緑になった後，\*\*「Add files via upload」\*\*をクリックします．
+❻-3の表示が緑になった後，「Add files via upload」をクリックします．
 
 ![](<../../.gitbook/assets/image (271).png>)
 
 ### ❽ Make Jsonをクリック
 
-「Add files via upload」のページが表示されます．画面下部の\*\*「Make Json」\*\*をクリックします．
+「Add files via upload」のページが表示されます．画面下部の「Make Json」をクリックします．
 
 ![](<../../.gitbook/assets/image (196).png>)
 
-CHiBi-CHiLO登録用ファイル\*\*（MakeJson.zip）\*\*がダウンロードされます．
+CHiBi-CHiLO登録用ファイル（MakeJson.zip）がダウンロードされます．
