@@ -57,7 +57,7 @@ description: テンプレートファイル（エクセル形式）を利用し�
 
 ### ❶ GitHubにアクセス
 
-ブラウザで\*\*「GitHub」\*\*にサインインします．
+ブラウザで「GitHub」にサインインします．
 
 [https://github.com/npocccties/chibichilo-excel2json](https://github.com/npocccties/chibichilo-excel2json)にアクセスします．
 
@@ -71,7 +71,7 @@ description: テンプレートファイル（エクセル形式）を利用し�
 
 ### ❸ アップロードの反映
 
-ドラッグ＆ドロップすると，更新の確認画面が表示されます．画面下部の「Commit directly to the main branch.」**が選択されている状態で，**「Commit changes」をクリックします．
+ドラッグ＆ドロップすると，更新の確認画面が表示されます．画面下部の「Commit directly to the main branch.」が選択されている状態で，「Commit changes」をクリックします．
 
 ![](<../../.gitbook/assets/image (70) (1).png>)
 
@@ -106,3 +106,8 @@ GitHubの「Actions」タブをクリックします．
 ![](<../../.gitbook/assets/image (196).png>)
 
 CHiBi-CHiLO登録用ファイル（MakeJson.zip）がダウンロードされます．
+
+### ❾ 一括登録
+ダウンロードしたJsonファイルを使用して一括登録をおこないます．
+
+* [一括登録](register.md)
