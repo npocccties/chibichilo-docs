@@ -9,7 +9,7 @@
 ## コンテンツ作成 <a href="#operation" id="operation"></a>
 
 * [ブック作成](operation/book/README.md)
-  * [作成](operation/book/create.md)
+  * [作成の基本](operation/book/create.md)
   * [検索・修正・削除](operation/book/edit.md)
   * [シェア](operation/book/share.md)
   * [公開](operation/book/release.md)
@@ -22,7 +22,7 @@
     * [トピックを作成する](operation/book/topic\_management/create-topic.md)
     * [トピックの並び順の変更と削除](operation/book/topic\_management/topic-order.md)
 * [トピック作成](operation/topic/README.md)
-  * [作成](operation/topic/create.md)
+  * [作成の基本](operation/topic/create.md)
   * [検索・修正・削除](operation/topic/edit.md)
   * [シェア](operation/topic/share.md)
   * [ビデオのトリミング](operation/topic/trim.md)
