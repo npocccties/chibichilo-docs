@@ -16,4 +16,4 @@ description:
 
 ![](<../../../.gitbook/assets/image (321).png>)
 
-トピックの作成方法については[こちら](../../topic/create.md)
+トピックの作成方法については[こちら](/operation/topic/create.md)
