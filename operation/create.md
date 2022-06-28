@@ -7,7 +7,7 @@ description: >-
 
 CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
 
-* [CHiBi-CHiLOへのアクセス](start/access.md)
+* [CHiBi-CHiLOへのアクセス](book/start/access.md)
 
 ## 1. ブックの作成
 
@@ -15,7 +15,7 @@ CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい
 
 CHiBi-CHiLOのグローバルメニューの「ブック」をクリックしてブック一覧画面を表示し，「+ブックの作成」をクリックします．
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../.gitbook/assets/image (58).png>)
 
 {% hint style="info" %}
 初めてブックを作成する時はブック画面には何も表示されていませんが，ブックを作成すると作成したブックが一覧に表示されます．
@@ -25,7 +25,7 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 ブック作成画面が表示されますので，必要項目を入力します．入力項目の詳細は以下の表をご確認下さい．
 
-![](<../../.gitbook/assets/image (476).png>)
+![](<../.gitbook/assets/image (476).png>)
 
 #### 入力項目の詳細
 
@@ -45,7 +45,7 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 ❷の項目の入力後，「作成」をクリックすると，ブック編集画面が表示されます．
 
-![](<../../.gitbook/assets/image (174).png>)
+![](<../.gitbook/assets/image (174).png>)
 
 ## 2．トピックの追加
 
@@ -53,11 +53,11 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 ブック編集画面のトピック追加エリアの「+トピックの作成」をクリックすると，トピック作成画面が表示されます．以下を確認し，トピックを作成して下さい．
 
-{% content-ref url="../topic/create.md" %}
-[create.md](../topic/create.md)
+{% content-ref url="../topikku/create.md" %}
+[create.md](../topikku/create.md)
 {% endcontent-ref %}
 
-![](<../../.gitbook/assets/image (321).png>)
+![](<../.gitbook/assets/image (321).png>)
 
 
 
@@ -67,7 +67,7 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 追加したトピックの並び変えや削除は以下をご確認下さい．
 
-* [トピックの並び順の変更と削除](operation/book/topic\_management/topic-order.md)
+* [トピックの並び順の変更と削除](book/operation/book/topic\_management/topic-order.md)
 
 ## 3. LMSからのリンク設定
 
@@ -77,22 +77,28 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 A-1 ブック編集画面で，更新したブックを提供にチェックをいれ，A-2更新をクリックします．
 
-![](<../../.gitbook/assets/image (324).png>)
+![](<../.gitbook/assets/image (324).png>)
 
 A-3ブック一覧画面の「提供中のブック」エリアに設定したブックが表示されます．配信設定が完了したことを確認します．
 
-![](<../../.gitbook/assets/image (66) (1).png>)
+![](<../.gitbook/assets/image (66) (1).png>)
 
 ### ❷ブック一覧画面で配信設定する
 
-ブック一覧画面で，配信するブックを選択し，<img src="../../.gitbook/assets/image (415).png" alt="" data-size="line">アイコンをクリックすると，「提供中のブック」エリアに設定したブックが表示され，配信設定が完了したことを確認できます．
+ブック一覧画面で，配信するブックを選択し，<img src="../.gitbook/assets/image (415).png" alt="" data-size="line">アイコンをクリックすると，「提供中のブック」エリアに設定したブックが表示され，配信設定が完了したことを確認できます．
 
-![](<../../.gitbook/assets/image (216).png>)
+![](<../.gitbook/assets/image (216).png>)
 
 ## 4．LMSからの配信確認
 
 以上で，ビデオ教材の配信設定は終了です． CHiBi-CHiLOの画面をとして，LMS(Moodle）の画面に戻り，設定した外部ツールをクリックすると，設定したビデオが配信されていることを確認できます．
 
-![](<../../.gitbook/assets/image (81).png>)
+![](<../.gitbook/assets/image (81).png>)
 
-* [コースへの提供](operation/book/offer.md)
+
+
+### （1）ブックの修正
+
+ブックのペンマークをクリックします．
+
+![](<../.gitbook/assets/image (93).png>)

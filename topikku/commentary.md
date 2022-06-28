@@ -1,34 +1,35 @@
 ---
-description:
-  トピックの解説を作成します．
-  CHiBi-CHiLOはGitHub Flavored Markdownに対応しています．ここでは使用頻度の高いリンク・罫線・斜体・太字（強調）・番号付きリスト・番号なしリストの設定方法を紹介します．
+description: >-
+  トピックの解説を作成します． CHiBi-CHiLOはGitHub Flavored
+  Markdownに対応しています．ここでは使用頻度の高いリンク・罫線・斜体・太字（強調）・番号付きリスト・番号なしリストの設定方法を紹介します．
 ---
 
 # 解説の設定
+
 コンテンツの説明に使用する解説を設定出来ます．
 
 ## 解説の設定
 
 ### 解説を設定する
-ブックの作成時，もしくは編集時に設定します．
-文字を入力します．
-![](<../../.gitbook/assets/image (472).png>)
+
+ブックの作成時，もしくは編集時に設定します． 文字を入力します． ![](<../.gitbook/assets/image (472).png>)
 
 ### 作成（更新）をクリック
+
 作成（更新）をクリックします．
 
 ## （1）マークダウン記法
 
 GitHub Flavored MarkdownはCHiBi-CHiLOの解説に入力する際に使用可能で，リンクや書式設定，リストを設定出来ます．よく使う記法の具体的な使い方は次で解説します．
 
-![](<../../.gitbook/assets/image (269).png>)
+![](<../.gitbook/assets/image (269).png>)
 
 ## （2）よく使う記法
 
 | 書式        | 書き方          | 記入例                                                        |
 | --------- | ------------ | ---------------------------------------------------------- |
 | ❶ リンク     | \[文字列]\(URL) | \[リンク][https://www.cccties.org/](https://www.cccties.org/) |
-| ❷ URL直接入力  | URLを入力する     | [https://www.cccties.org/](https://www.cccties.org/)       |
+| ❷ URL直接入力 | URLを入力する     | [https://www.cccties.org/](https://www.cccties.org/)       |
 | ❸ 斜体      | \*文字列\*      | \*斜体\*                                                     |
 | ❹ 太字（強調）  | \*\*文字列\*\*  | \*\*太字\*\*                                                 |
 | ❺ 罫線      | ---          | ---                                                        |
@@ -75,4 +76,4 @@ GitHub Flavored MarkdownはCHiBi-CHiLOの解説に入力する際に使用可能
 
 設定したトピックを表示すると，番号なしリストの設定された文字列が表示されます．
 
-解説の設定方法については[こちら](/operation/book/commentary.md)
+解説の設定方法については[こちら](../operation/commentary.md)

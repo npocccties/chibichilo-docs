@@ -7,13 +7,13 @@ description: >-
 
 CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
 
-* [CHiBi-CHiLOへのアクセス](../../chibi-chilono/access.md)
+* [CHiBi-CHiLOへのアクセス](../start/access.md)
 
 ## ❶ リストを開く
 
 ページ下部の「詳細を設定する」をクリックし，ライセンスのリストをクリックします．
 
-![](<../../.gitbook/assets/image (477).png>)
+![](<../.gitbook/assets/image (477).png>)
 
 ## ❷ ライセンスを選択する
 
@@ -23,4 +23,4 @@ CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい
 
 必要な設定をおこなった後，「設定」もしくは「更新」をクリックします． ライセンス設定が反映され，CC-byの情報が表示されます．
 
-![](<../../.gitbook/assets/image (478).png>)
+![](<../.gitbook/assets/image (478).png>)

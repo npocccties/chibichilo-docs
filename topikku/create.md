@@ -6,7 +6,7 @@ description: CHiBi-CHiLOで使用するトピック機能の作成方法や設�
 
 CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
 
-* [CHiBi-CHiLOへのアクセス](../../chibi-chilono/access.md)
+* [CHiBi-CHiLOへのアクセス](../start/access.md)
 
 ## 1. トピックの作成
 
@@ -14,11 +14,11 @@ CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい
 
 CHiBi-CHiLOのグローバルメニューの「トピック」をクリックしてトピック一覧画面を表示し，「+トピックの作成」をクリックします．
 
-![](<../../.gitbook/assets/image (127).png>)
+![](<../.gitbook/assets/image (127).png>)
 
 トピック作成画面が表示されます．
 
-![](<../../.gitbook/assets/image (440).png>)
+![](<../.gitbook/assets/image (440).png>)
 
 ### ❷ タイトル（必須）の入力
 
@@ -38,7 +38,7 @@ CHiBi-CHiLOのグローバルメニューの「トピック」をクリックし
 
 * [解説の設定](broken-reference)
 
-![](<../../.gitbook/assets/image (280).png>)
+![](<../.gitbook/assets/image (280).png>)
 
 その他の入力項目は以下の通りです．
 
@@ -54,7 +54,7 @@ CHiBi-CHiLOのグローバルメニューの「トピック」をクリックし
 
 項目の入力後，「作成」をクリックすると，ブック編集画面のトピック追加エリアに作成したトピックが追加されていることを確認できます．
 
-![](<../../.gitbook/assets/image (364).png>)
+![](<../.gitbook/assets/image (364).png>)
 
 ### ❼ 残りのトピックを作成
 

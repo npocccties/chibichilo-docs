@@ -6,7 +6,8 @@ description: トピック作成ではCHiBi-CHiLOで使用するトピック機�
 
 「他の教員にシェア」にチェックを入れるとトピックを共有することができます（[参照](edit.md)）
 
-![](<../../.gitbook/assets/image (470).png>)
+![](<../.gitbook/assets/image (470).png>)
 
-シェアされていることで，トピックを再利用することが出来るようになります． 
-* [トピックやブックの共有・再利用](../book/topic_management/reuse-topic.md)
+シェアされていることで，トピックを再利用することが出来るようになります．
+
+* [トピックやブックの共有・再利用](../operation/reuse-topic.md)

@@ -18,7 +18,7 @@ Zoomを使用したメールアドレスを使用しているアカウントでL
 
 ![](<../.gitbook/assets/image (466).png>)
 
-CHiBi-CHiLOにアクセスします．（[事前準備：外部ツールの追加](../chibi-chilono/access.md) 参照）
+CHiBi-CHiLOにアクセスします．（[事前準備：外部ツールの追加](../start/access.md) 参照）
 
 ### ❷ インポートの設定
 
