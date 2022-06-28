@@ -2,11 +2,11 @@
 description: CHiBi-CHiLOで使用するトピック機能の作成方法や設定について解説しています．
 ---
 
-# トピック作成の基本
+# - トピック作成の基本
 
 CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
 
-* [CHiBi-CHiLOへのアクセス](../start/access.md)
+* [CHiBi-CHiLOへのアクセス](../1-chibi-chilono/access.md)
 
 ## 1. トピックの作成
 

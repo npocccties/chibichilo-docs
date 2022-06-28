@@ -3,7 +3,7 @@ description: >-
   CHiBi-CHiLOでは，ビデオを埋め込んで作成したページをトピック，トピックを組み合わせてまとめたページをブックと呼びます．ここでは，まずブックを作成し，ブックからトピックを追加していく方法を説明します．
 ---
 
-# ブック作成の基本
+# - ブック作成の基本
 
 CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
 
@@ -53,8 +53,8 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 ブック編集画面のトピック追加エリアの「+トピックの作成」をクリックすると，トピック作成画面が表示されます．以下を確認し，トピックを作成して下さい．
 
-{% content-ref url="../topikku/create.md" %}
-[create.md](../topikku/create.md)
+{% content-ref url="../3-topikku/create.md" %}
+[create.md](../3-topikku/create.md)
 {% endcontent-ref %}
 
 ![](<../.gitbook/assets/image (321).png>)
