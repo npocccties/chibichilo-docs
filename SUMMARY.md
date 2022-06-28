@@ -1,10 +1,7 @@
 # Table of contents
 
-* [設定ガイド](README.md)
-
-## 基本操作 <a href="#start" id="start"></a>
-
-* [CHiBi-CHiLOへのアクセス](start/access.md)
+* [CHiBi-CHiLOマニュアル](README.md)
+* [CHiBi-CHiLOへのアクセス](access.md)
 
 ## コンテンツ作成 <a href="#operation" id="operation"></a>
 

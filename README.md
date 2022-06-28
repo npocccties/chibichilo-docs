@@ -1,14 +1,12 @@
 ---
-description: ここでは，CHiBi-CHiLOに関する操作や設定について解説しています．以下から必要な項目を選択してご覧ください．
+description: CHiBi-CHiLOでコンテンツを作成される方向けのユーザーマニュアルです．以下から必要な項目を選択してご覧ください．
 ---
 
-# 設定ガイド
+# CHiBi-CHiLOマニュアル
 
-### 基本操作 <a href="#start" id="start"></a>
+CHiBi-CHiLOcc
 
-CHiBi-CHiLOを編集する際に必要な「外部ツールの作成」や「編集画面の表示」について解説しています．
-
-* [CHiBi-CHiLOへのアクセス](start/access.md)
+* [CHiBi-CHiLOへのアクセス](access.md)
 
 ### コンテンツ作成 <a href="#operation" id="operation"></a>
 
@@ -19,25 +17,25 @@ CHiBi-CHiLOで基本となるブック作成やトピック作成について解
   * [検索・修正・削除](operation/book/edit.md)
   * [シェア](operation/book/share.md)
   * [公開](operation/book/release.md)
-  * [作成者の設定](operation/topic/author.md)
+  * [作成者の設定](broken-reference)
   * [キーワード](operation/book/keyword.md)
   * [解説](operation/book/commentary.md)
   * [コースへの提供](operation/book/offer.md)
   * [ブック内のトピック管理](operation/book/topic\_management/)
-    * [他のブックからトピックを再利用する](operation/book/topic\_management/reuse-book.md)
+    * [他のブックからトピックを再利用する](broken-reference)
     * [トピックを再利用する](operation/book/topic\_management/reuse-topic.md)
     * [トピックを作成する](operation/book/topic\_management/create-topic.md)
     * [トピックの並び順の変更と削除](operation/book/topic\_management/topic-order.md)
     * [トピックのプレビューと編集](operation/book/topic\_management/topic-order.md)
 * [トピック作成](operation/topic/)
   * [作成](operation/topic/create.md)
-  * [検索・修正・削除](operation/topic/edit.md)
-  * [シェア](operation/topic/share.md)
+  * [検索・修正・削除](broken-reference)
+  * [シェア](broken-reference)
   * [ビデオのトリミング](operation/topic/trim.md)
   * [字幕の追加](operation/topic/subtitles.md)
-  * [作成者の設定](operation/book/creator.md)
-  * [キーワードの設定](operation/topic/keyword.md)
-  * [解説の設定](operation/topic/commentary.md)
+  * [作成者の設定](operation/book/author.md)
+  * [キーワードの設定](broken-reference)
+  * [解説の設定](broken-reference)
   * [ライセンスの設定](operation/topic/license-settings.md)
 * [学習分析機能](operation/dashboard.md)
 
