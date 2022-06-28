@@ -4,13 +4,13 @@ description: CHiBi-CHiLOでコンテンツを作成される方向けのユー�
 
 # CHiBi-CHiLOマニュアル
 
-CHiBi-CHiLOcc
+CHiBi-CHiLOは，接続するLMS（Leaning Management System）から接続します．詳しくは以下をご覧下さい．
 
-* [CHiBi-CHiLOへのアクセス](access.md)
+* [CHiBi-CHiLOへのアクセス](chibi-chilono/access.md)
 
 ### コンテンツ作成 <a href="#operation" id="operation"></a>
 
-CHiBi-CHiLOで基本となるブック作成やトピック作成について解説しています．また，学習分析機能についてもこちらで解説しています．
+CHiBi-CHiLOのブック作成やトピック作成について解説しています．また，学習分析機能についてもこちらで解説しています．
 
 * [ブック作成](operation/book/)
   * [作成](operation/book/create.md)
@@ -20,11 +20,11 @@ CHiBi-CHiLOで基本となるブック作成やトピック作成について解
   * [作成者の設定](broken-reference)
   * [キーワード](operation/book/keyword.md)
   * [解説](operation/book/commentary.md)
-  * [コースへの提供](operation/book/offer.md)
+  * [コースへの提供](broken-reference)
   * [ブック内のトピック管理](operation/book/topic\_management/)
     * [他のブックからトピックを再利用する](broken-reference)
     * [トピックを再利用する](operation/book/topic\_management/reuse-topic.md)
-    * [トピックを作成する](operation/book/topic\_management/create-topic.md)
+    * [トピックを作成する](broken-reference)
     * [トピックの並び順の変更と削除](operation/book/topic\_management/topic-order.md)
     * [トピックのプレビューと編集](operation/book/topic\_management/topic-order.md)
 * [トピック作成](operation/topic/)
@@ -39,9 +39,9 @@ CHiBi-CHiLOで基本となるブック作成やトピック作成について解
   * [ライセンスの設定](operation/topic/license-settings.md)
 * [学習分析機能](operation/dashboard.md)
 
-### 拡張機能 <a href="#extension" id="extension"></a>
+### オプション機能 <a href="#extension" id="extension"></a>
 
-基本となるコンテンツ作成とは別の，特殊な登録であったり有料で利用可能なサービスについて解説しています．
+以下の機能は，CHiBi-CHiLOのオプション機能となっております．ご利用のCHiBi-CHiLOで，以下の機能を利用できるかどうかは，システム管理者にお問合せ下さい．
 
 * [一括登録](extension/import/)
   * [一括登録](extension/import/register.md)

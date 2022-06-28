@@ -1,25 +1,27 @@
 # Table of contents
 
 * [CHiBi-CHiLOマニュアル](README.md)
-* [CHiBi-CHiLOへのアクセス](access.md)
+
+## CHiBi-CHiLOの基本
+
+* [CHiBi-CHiLOのコンテンツ](chibi-chilono/chibi-chilonokontentsu.md)
+* [CHiBi-CHiLOへのアクセス](chibi-chilono/access.md)
 
 ## コンテンツ作成 <a href="#operation" id="operation"></a>
 
 * [ブック作成](operation/book/README.md)
-  * [作成の基本](operation/book/create.md)
+  * [ブック作成の基本](operation/book/create.md)
   * [検索・修正・削除](operation/book/edit.md)
   * [シェア](operation/book/share.md)
   * [公開](operation/book/release.md)
   * [作成者の設定](operation/book/author.md)
   * [キーワードの設定](operation/book/keyword.md)
   * [解説の設定](operation/book/commentary.md)
-  * [コースへの提供](operation/book/offer.md)
   * [ブック内のトピック管理](operation/book/topic\_management/README.md)
     * [トピックを再利用する](operation/book/topic\_management/reuse-topic.md)
-    * [トピックを作成する](operation/book/topic\_management/create-topic.md)
     * [トピックの並び順の変更と削除](operation/book/topic\_management/topic-order.md)
 * [トピック作成](operation/topic/README.md)
-  * [作成の基本](operation/topic/create.md)
+  * [トピック作成の基本](operation/topic/create.md)
   * [検索・修正・削除](operation/topic/edit.md)
   * [シェア](operation/topic/share.md)
   * [ビデオのトリミング](operation/topic/trim.md)
