@@ -2,19 +2,11 @@
 description: CHiBi-CHiLOで使用するトピック機能の作成方法や設定について解説しています．
 ---
 
-<<<<<<< Updated upstream:3-topikku/create.md
 # - トピック作成の基本
 
 CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
 
 * [CHiBi-CHiLOへのアクセス](../1-chibi-chilono/access.md)
-=======
-# トピック作成の基本
-
-CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
-
-* [CHiBi-CHiLOへのアクセス](../start/access.md)
->>>>>>> Stashed changes:topikku/create.md
 
 ## 1. トピックの作成
 

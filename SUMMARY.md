@@ -2,7 +2,6 @@
 
 * [CHiBi-CHiLOマニュアル](README.md)
 
-<<<<<<< Updated upstream
 ## 1. CHiBi-CHiLOの基本
 
 * [- CHiBi-CHiLOのコンテンツ](1-chibi-chilono/chibi-chilonokontentsu.md)
@@ -39,6 +38,10 @@
 ## 5. 拡張機能 <a href="#extension" id="extension"></a>
 
 * [- 一括登録](extension/import/README.md)
+  * [一括登録](extension/import/register.md)
+  * [一括登録用ファイルの作り方](extension/import/create.md)
+* [- Zoom動画の取り込み](extension/zoom.md)
+* [- 音声合成ビデオ教材の作成](extension/chilospeech.md)
 
 ## 6. その他 <a href="#other" id="other"></a>
 
