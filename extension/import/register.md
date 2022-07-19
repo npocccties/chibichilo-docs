@@ -6,7 +6,11 @@ description: CHiBi-CHiLO登録データ（Json形式）を利用して，ブッ�
 
 ## ❶ CHiBi-CHiLOにアクセス
 
+<<<<<<< Updated upstream
 CHiBi-CHiLOを登録するセクションに「外部ツール」を作成します．（[事前準備：外部ツールの追加](../../1-chibi-chilono/access.md)参照）外部ツールをクリックし，CHiBi-CHiLOを開きます．
+=======
+CHiBi-CHiLOを登録するセクションに「外部ツール」を作成します．（[事前準備：外部ツールの追加](../../start/access.md)参照）外部ツールをクリックし，CHiBi-CHiLOを開きます．
+>>>>>>> Stashed changes
 
 ## ❷ 一括登録をクリック
 

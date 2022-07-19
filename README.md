@@ -6,7 +6,11 @@ description: CHiBi-CHiLOでコンテンツを作成される方向けのユー�
 
 CHiBi-CHiLOは，接続するLMS（Leaning Management System）から接続します．詳しくは以下をご覧下さい．
 
+<<<<<<< Updated upstream
 * [CHiBi-CHiLOへのアクセス](1-chibi-chilono/access.md)
+=======
+* [CHiBi-CHiLOへのアクセス](start/access.md)
+>>>>>>> Stashed changes
 
 ### コンテンツ作成 <a href="#operation" id="operation"></a>
 
@@ -28,6 +32,7 @@ CHiBi-CHiLOのブック作成やトピック作成について解説していま
     * [トピックの並び順の変更と削除](operation/topic-order.md)
     * [トピックのプレビューと編集](operation/topic-order.md)
 * [トピック作成](broken-reference)
+<<<<<<< Updated upstream
   * [作成](3-topikku/create.md)
   * [検索・修正・削除](broken-reference)
   * [シェア](broken-reference)
@@ -38,6 +43,18 @@ CHiBi-CHiLOのブック作成やトピック作成について解説していま
   * [解説の設定](broken-reference)
   * [ライセンスの設定](3-topikku/license-settings.md)
 * [学習分析機能](4.-xue-xi-fen-xi/dashboard.md)
+=======
+  * [作成](topikku/create.md)
+  * [検索・修正・削除](broken-reference)
+  * [シェア](broken-reference)
+  * [ビデオのトリミング](topikku/trim.md)
+  * [字幕の追加](topikku/subtitles.md)
+  * [作成者の設定](operation/author.md)
+  * [キーワードの設定](broken-reference)
+  * [解説の設定](broken-reference)
+  * [ライセンスの設定](topikku/license-settings.md)
+* [学習分析機能](xue-xi-fen-xi/dashboard.md)
+>>>>>>> Stashed changes
 
 ### オプション機能 <a href="#extension" id="extension"></a>
 
