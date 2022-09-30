@@ -27,6 +27,10 @@ CHiBi-CHiLOでは，任意のユーザーをブックやトピックの作成者
 
 なお，作成者は設定した時点で反映されます．
 
+{% hint style="warning" %}
+LMSから一度もCHiBi-CHiLOにアクセスしていないユーザーは反映されませんので，設定したい教員のユーザーが表示されない場合は，そのユーザーでCHiBi-CHiLOにアクセスしてください．
+{% endhint %}
+
 ![](<../.gitbook/assets/image (69).png>)
 
 ### （3）設定の確認
