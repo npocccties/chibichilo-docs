@@ -12,13 +12,13 @@ description: Wowza対応のCHiBi-CHiLOは，トピックの作成・編集画面
 
 「ファイルアップロード」をクリックします．
 
-![](<../.gitbook/assets/image (451).png>)
+![](<../.gitbook/assets/file-upload_01.png>)
 
 ### ❷ 「ファイルを選択」をクリック
 
 動画ファイルから「ファイルを選択」をクリックします．
 
-![](<../.gitbook/assets/image (452).png>)
+![](<../.gitbook/assets/file-upload_02.png>)
 
 ### ❸ アップロードするファイルを選択
 
@@ -28,4 +28,4 @@ description: Wowza対応のCHiBi-CHiLOは，トピックの作成・編集画面
 
 アップロードした動画が表示されます．
 
-![](<../.gitbook/assets/image (454).png>)
+![](<../.gitbook/assets/file-upload_04.png>)
