@@ -28,6 +28,12 @@ CHiBi-CHiLOのグローバルメニューの「トピック」をクリックし
 
 あらかじめ，動画配信サービスに登録した動画のURLを入力して下さい． 動画配信サービスは，Youtube,Vimeo,Wowzaに対応していますが，ご利用のCHiBi-CHiLOがどの動画配信サービスをサポートしているかは，管理者にご確認下さい．
 
+なお，Wowza対応のCHiBi-CHiLOのみ，トピックの編集画面で，ビデオファイルのアップロードが行なえます．詳しくは以下をご覧ください．
+
+{% content-ref url="../extension/video-upload.md" %}
+[video-upload.md](../extension/video-upload.md)
+{% endcontent-ref %}
+
 ### ❹ 学習時間の設定
 
 正しい動画のURLを入力すると，入力した動画の再生画面が表示されます．ここで，動画を再生すると動画の再生時間が学習時間に自動的に設定されます．
