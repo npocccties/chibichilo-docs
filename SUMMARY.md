@@ -30,7 +30,6 @@
 * [- 解説の設定](3-topikku/commentary.md)
 * [- ライセンスの設定](3-topikku/license-settings.md)
 * [- シェア](3-topikku/share.md)
-* [- ビデオアップロード](3-topikku/video-upload.md)
 
 ## 4. 学習分析
 
@@ -42,6 +41,7 @@
   * [一括登録](extension/import/register.md)
   * [一括登録用ファイルの作り方](extension/import/create.md)
 * [- Zoom動画の取り込み](extension/zoom.md)
+* [- ビデオアップロード](extension/video-upload.md)
 * [- 音声合成ビデオ教材の作成](extension/chilospeech.md)
 
 ## 6. その他 <a href="#other" id="other"></a>
