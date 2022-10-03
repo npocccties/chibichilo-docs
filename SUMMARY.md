@@ -30,6 +30,7 @@
 * [- 解説の設定](3-topikku/commentary.md)
 * [- ライセンスの設定](3-topikku/license-settings.md)
 * [- シェア](3-topikku/share.md)
+* [- ビデオアップロード（一時）](3-topikku/video-upload.md)
 
 ## 4. 学習分析
 
