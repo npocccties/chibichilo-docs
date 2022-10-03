@@ -1,8 +1,8 @@
 ---
-description: Wowza対応のCHiBi-CHiLOは，トピックの編集画面から，動画をアップロードすることができます．
+description: Wowza対応のCHiBi-CHiLOは，トピックの作成・編集画面から，動画をアップロードすることができます．
 ---
 
-# - ビデオアップロード
+# - ファイルアップロード
 
 {% hint style="info" %}
 以下の手順はWowza対応のCHiBi-CHiLOでのみ行なえます．

@@ -28,7 +28,7 @@ CHiBi-CHiLOのグローバルメニューの「トピック」をクリックし
 
 あらかじめ，動画配信サービスに登録した動画のURLを入力して下さい． 動画配信サービスは，Youtube,Vimeo,Wowzaに対応していますが，ご利用のCHiBi-CHiLOがどの動画配信サービスをサポートしているかは，管理者にご確認下さい．
 
-なお，Wowza対応のCHiBi-CHiLOのみ，トピックの編集画面で，ビデオファイルのアップロードが行なえます．詳しくは以下をご覧ください．
+なお，Wowza対応のCHiBi-CHiLOのみ，トピックの編集画面で，動画ファイルのアップロードが行なえます．詳しくは以下をご覧ください．
 
 {% content-ref url="../extension/video-upload.md" %}
 [video-upload.md](../extension/video-upload.md)
