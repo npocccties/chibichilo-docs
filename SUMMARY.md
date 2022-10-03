@@ -40,7 +40,7 @@
 * [- 一括登録](extension/import/README.md)
   * [一括登録](extension/import/register.md)
   * [一括登録用ファイルの作り方](extension/import/create.md)
-* [- ファイルアップロード](extension/video-upload.md)
+* [- ファイルアップロード](extension/file-upload.md)
 * [- Zoom動画の取り込み](extension/zoom.md)
 * [- 音声合成ビデオ教材の作成](extension/chilospeech.md)
 

@@ -30,8 +30,8 @@ CHiBi-CHiLOのグローバルメニューの「トピック」をクリックし
 
 なお，Wowza対応のCHiBi-CHiLOのみ，トピックの編集画面で，動画ファイルのアップロードが行なえます．詳しくは以下をご覧ください．
 
-{% content-ref url="../extension/video-upload.md" %}
-[video-upload.md](../extension/video-upload.md)
+{% content-ref url="../extension/file-upload.md" %}
+[file-upload.md](../extension/file-upload.md)
 {% endcontent-ref %}
 
 ### ❹ 学習時間の設定
