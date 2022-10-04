@@ -4,7 +4,7 @@
 
 ## 1. CHiBi-CHiLOの基本
 
-* [- CHiBi-CHiLOのコンテンツ](1-chibi-chilono/chibi-chilonokontentsu.md)
+* [- CHiBi-CHiLOのコンテンツ](1-chibi-chilono/contents.md)
 * [- CHiBi-CHiLOへのアクセス](1-chibi-chilono/access.md)
 
 ## 2. ブック作成 <a href="#book" id="book"></a>
