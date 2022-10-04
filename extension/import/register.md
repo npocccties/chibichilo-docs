@@ -12,19 +12,27 @@ CHiBi-CHiLOを登録するセクションに「外部ツール」を作成しま
 
 CHiBi-CHiLO画面上部の「＋ 一括登録」をクリックします．
 
-![](<../../.gitbook/assets/image (175).png>)
+![](<../../.gitbook/assets/import-register_01.png>)
 
 ## ❸ CHiBi-CHiLO登録用ファイルのインポート
 
-❸-1 CHiBi-CHiLO登録用ファイル（MakeJson.zip）を選択して，❸-2「インポート」ボタンをクリックします．
+❸-1「ファイルを選択」をクリックして，CHiBi-CHiLO登録用ファイル（MakeJson.zip）を選択します．
 
-![](<../../.gitbook/assets/image (177).png>)
+❸-2作成者を追加する場合は，登録するユーザーのメールアドレスを入力し，右側にあるアイコン（このメールアドレスの教員を追加）をクリックします．
+
+{% hint style="warning" %}
+LMSから一度もCHiBi-CHiLOにアクセスしていないユーザーは反映されませんので，設定したい教員のユーザーが表示されない場合は，そのユーザーでCHiBi-CHiLOにアクセスしてください．
+{% endhint %}
+
+完了したら，❸-3「インポート」ボタンをクリックします．
+
+![](<../../.gitbook/assets/import-register_02.png>)
 
 ## ❹ ブックが登録されます
 
 エクセルに入力した通り，CHiBi-CHiLOのブックが登録されます．
 
-![](<../../.gitbook/assets/image (154).png>)
+![](<../../.gitbook/assets/import-register_03.png>)
 
 ## ❺ 登録内容の確認
 
