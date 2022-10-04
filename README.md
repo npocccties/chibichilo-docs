@@ -10,7 +10,7 @@ CHiBi-CHiLOの構造や，Moodleからのアクセス方法について解説し
 
 ### [2.ブック作成](broken-reference)
 
-CHiBi-CHiLOのブック作成・設定方法について解説しています．
+CHiBi-CHiLOのブックの作成と設定方法について解説しています．
 
 ### [3.トピック作成](broken-reference)
 
