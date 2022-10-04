@@ -37,7 +37,7 @@ CHiBi-CHiLOのブック作成やトピック作成について解説していま
   * [キーワードの設定](broken-reference)
   * [解説の設定](broken-reference)
   * [ライセンスの設定](3-topikku/license-settings.md)
-* [学習分析機能](4.-xue-xi-fen-xi/dashboard.md)
+* [学習分析機能](dashboard/dashboard.md)
 
 ### オプション機能 <a href="#extension" id="extension"></a>
 

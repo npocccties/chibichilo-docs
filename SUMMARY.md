@@ -31,9 +31,9 @@
 * [- ライセンスの設定](3-topikku/license-settings.md)
 * [- シェア](3-topikku/share.md)
 
-## 4. 学習分析
+## 4. 学習分析 <a href="#dashboard" id="dashboard"></a>
 
-* [- 学習分析機能](4.-xue-xi-fen-xi/dashboard.md)
+* [- 学習分析機能](dashboard/dashboard.md)
 
 ## 5. 拡張機能 <a href="#extension" id="extension"></a>
 
