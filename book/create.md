@@ -53,8 +53,8 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 ブック編集画面のトピック追加エリアの「+トピックの作成」をクリックすると，トピック作成画面が表示されます．以下を確認し，トピックを作成して下さい．
 
-{% content-ref url="../3-topikku/create.md" %}
-[create.md](../3-topikku/create.md)
+{% content-ref url="../topic/create.md" %}
+[create.md](../topic/create.md)
 {% endcontent-ref %}
 
 ![](<../.gitbook/assets/image (321).png>)

@@ -19,17 +19,17 @@
 * [- トピックを再利用](book/reuse-topic.md)
 * [- トピックの並び替えと削除](book/topic-order.md)
 
-## 3. トピック作成
+## 3. トピック作成 <a href="#topic" id="topic"></a>
 
-* [- トピック作成の基本](3-topikku/create.md)
-* [- 検索・修正・削除](3-topikku/edit.md)
-* [- 動画のトリミング](3-topikku/trim.md)
-* [- 字幕の追加](3-topikku/subtitles.md)
-* [- 作成者の設定](3-topikku/author.md)
-* [- キーワードの設定](3-topikku/keyword.md)
-* [- 解説の設定](3-topikku/commentary.md)
-* [- ライセンスの設定](3-topikku/license-settings.md)
-* [- シェア](3-topikku/share.md)
+* [- トピック作成の基本](topic/create.md)
+* [- 検索・修正・削除](topic/edit.md)
+* [- 動画のトリミング](topic/trim.md)
+* [- 字幕の追加](topic/subtitles.md)
+* [- 作成者の設定](topic/author.md)
+* [- キーワードの設定](topic/keyword.md)
+* [- 解説の設定](topic/commentary.md)
+* [- ライセンスの設定](topic/license-settings.md)
+* [- シェア](topic/share.md)
 
 ## 4. 学習分析 <a href="#dashboard" id="dashboard"></a>
 
