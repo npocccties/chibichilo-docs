@@ -23,7 +23,7 @@
 
 * [- トピック作成の基本](3-topikku/create.md)
 * [- 検索・修正・削除](3-topikku/edit.md)
-* [- ビデオのトリミング](3-topikku/trim.md)
+* [- 動画のトリミング](3-topikku/trim.md)
 * [- 字幕の追加](3-topikku/subtitles.md)
 * [- 作成者の設定](3-topikku/author.md)
 * [- キーワードの設定](3-topikku/keyword.md)
