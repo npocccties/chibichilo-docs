@@ -8,7 +8,7 @@
 
 CHiBi-CHiLOの解説欄はGitHub Flavored Markdownに対応しています．トピックの解説の設定ページでは，使用頻度の高いリンク・罫線・斜体・太字（強調）・番号付きリスト・番号なしリストの設定方法を紹介しています．
 
-* [解説の設定](../3-topikku/commentary.md)
+* [解説の設定](../topic/commentary.md)
 
 ## 作成（更新）をクリック
 
