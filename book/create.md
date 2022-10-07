@@ -15,7 +15,7 @@ CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい
 
 CHiBi-CHiLOのグローバルメニューの「ブック」をクリックしてブック一覧画面を表示し，「+ブックの作成」をクリックします．
 
-![](<../.gitbook/assets/image (58).png>)
+![](<../.gitbook/assets/book-create_01.png>)
 
 {% hint style="info" %}
 初めてブックを作成する時はブック画面には何も表示されていませんが，ブックを作成すると作成したブックが一覧に表示されます．
@@ -25,7 +25,7 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 ブック作成画面が表示されますので，必要項目を入力します．入力項目の詳細は以下の表をご確認下さい．
 
-![](<../.gitbook/assets/image (476).png>)
+![](<../.gitbook/assets/book-create_02.png>)
 
 #### 入力項目の詳細
 
@@ -44,7 +44,7 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 ❷の項目の入力後，「作成」をクリックすると，ブック編集画面が表示されます．
 
-![](<../.gitbook/assets/image (174).png>)
+![](<../.gitbook/assets/book-create_03.png>)
 
 ## 2．トピックの追加
 
@@ -56,7 +56,7 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 [create.md](../topic/create.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/image (321).png>)
+![](<../.gitbook/assets/book-create_04.png>)
 
 ### ❷ 残りのトピックを作成
 
@@ -74,17 +74,17 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 A-1 ブック編集画面で，更新したブックを提供にチェックをいれ，A-2更新をクリックします．
 
-![](<../.gitbook/assets/image (324).png>)
+![](<../.gitbook/assets/book-create_05.png>)
 
 A-3ブック一覧画面の「提供中のブック」エリアに設定したブックが表示されます．配信設定が完了したことを確認します．
 
-![](<../.gitbook/assets/image (66) (1).png>)
+![](<../.gitbook/assets/book-create_06.png>)
 
 ### ❷ブック一覧画面で配信設定する
 
 ブック一覧画面で，配信するブックを選択し，<img src="../.gitbook/assets/image (415).png" alt="" data-size="line">アイコンをクリックすると，「提供中のブック」エリアに設定したブックが表示され，配信設定が完了したことを確認できます．
 
-![](<../.gitbook/assets/image (216).png>)
+![](<../.gitbook/assets/book-create_07.png>)
 
 ## 4．LMSからの配信確認
 
