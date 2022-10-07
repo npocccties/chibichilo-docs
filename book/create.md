@@ -15,7 +15,7 @@ CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい
 
 CHiBi-CHiLOのグローバルメニューの「ブック」をクリックしてブック一覧画面を表示し，「+ブックの作成」をクリックします．
 
-![](<../.gitbook/assets/book-create_01.png>)
+![](../.gitbook/assets/book-create\_01.png)
 
 {% hint style="info" %}
 初めてブックを作成する時はブック画面には何も表示されていませんが，ブックを作成すると作成したブックが一覧に表示されます．
@@ -25,7 +25,7 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 ブック作成画面が表示されますので，必要項目を入力します．入力項目の詳細は以下の表をご確認下さい．
 
-![](<../.gitbook/assets/book-create_02.png>)
+![](../.gitbook/assets/book-create\_02.png)
 
 #### 入力項目の詳細
 
@@ -44,7 +44,7 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 ❷の項目の入力後，「作成」をクリックすると，ブック編集画面が表示されます．
 
-![](<../.gitbook/assets/book-create_03.png>)
+![](../.gitbook/assets/book-create\_03.png)
 
 ## 2．トピックの追加
 
@@ -56,7 +56,7 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 [create.md](../topic/create.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/book-create_04.png>)
+![](../.gitbook/assets/book-create\_04.png)
 
 ### ❷ 残りのトピックを作成
 
@@ -74,30 +74,30 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 A-1 ブック編集画面で，更新したブックを提供にチェックをいれ，A-2更新をクリックします．
 
-![](<../.gitbook/assets/book-create_05.png>)
+![](../.gitbook/assets/book-create\_05.png)
 
 A-3ブック一覧画面の「提供中のブック」エリアに設定したブックが表示されます．配信設定が完了したことを確認します．
 
-![](<../.gitbook/assets/book-create_06.png>)
+![](../.gitbook/assets/book-create\_06.png)
 
 ### ❷ブック一覧画面で配信設定する
 
-ブック一覧画面で，配信するブックを選択し，<img src="../.gitbook/assets/image (415).png" alt="" data-size="line">アイコンをクリックすると，「提供中のブック」エリアに設定したブックが表示され，配信設定が完了したことを確認できます．
+ブック一覧画面で，配信するブックを選択し，<img src="../.gitbook/assets/linkoff.png" alt="" data-size="line">アイコンをクリックすると，「提供中のブック」エリアに設定したブックが表示され，配信設定が完了したことを確認できます．
 
-![](<../.gitbook/assets/book-create_07.png>)
+![](../.gitbook/assets/book-create\_07.png)
 
 ## 4．LMSからの配信確認
 
 以上で，ビデオ教材の配信設定は終了です． CHiBi-CHiLOの画面をとして，LMS(Moodle）の画面に戻り，設定した外部ツールをクリックすると，設定したビデオが配信されていることを確認できます．
 
-![](<../.gitbook/assets/book-create_08.png>)
+![](../.gitbook/assets/book-create\_08.png)
 
 モバイルで見た場合
 
-![](<../.gitbook/assets/book-create_09.png>)
+![](../.gitbook/assets/book-create\_09.png)
 
 ### （1）ブックの修正
 
 ブックのタイトルの右にあるペンマークをクリックします．
 
-![](<../.gitbook/assets/book-create_10.png>)
+![](../.gitbook/assets/book-create\_10.png)
