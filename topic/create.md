@@ -6,7 +6,7 @@ description: CHiBi-CHiLOで使用するトピック機能の作成方法や設�
 
 CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
 
-* [CHiBi-CHiLOへのアクセス](../1-chibi-chilono/access.md)
+* [CHiBi-CHiLOへのアクセス](../chibichilo/access.md)
 
 ## 1. トピックの作成
 

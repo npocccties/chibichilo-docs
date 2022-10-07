@@ -2,10 +2,10 @@
 
 * [CHiBi-CHiLOマニュアル](README.md)
 
-## 1. CHiBi-CHiLOの基本
+## 1. CHiBi-CHiLOの基本 <a href="#chibichilo" id="chibichilo"></a>
 
-* [- CHiBi-CHiLOのコンテンツ](1-chibi-chilono/contents.md)
-* [- CHiBi-CHiLOへのアクセス](1-chibi-chilono/access.md)
+* [- CHiBi-CHiLOのコンテンツ](chibichilo/contents.md)
+* [- CHiBi-CHiLOへのアクセス](chibichilo/access.md)
 
 ## 2. ブック作成 <a href="#book" id="book"></a>
 

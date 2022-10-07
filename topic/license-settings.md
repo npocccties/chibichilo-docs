@@ -7,7 +7,7 @@ description: >-
 
 CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
 
-* [CHiBi-CHiLOへのアクセス](../1-chibi-chilono/access.md)
+* [CHiBi-CHiLOへのアクセス](../chibichilo/access.md)
 
 ## ❶ リストを開く
 

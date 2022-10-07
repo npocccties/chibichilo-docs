@@ -4,7 +4,7 @@ description: CHiBi-CHiLOでコンテンツを作成される方向けのユー�
 
 # CHiBi-CHiLOマニュアル
 
-### [1.CHiBi-CHiLOの基本](broken-reference)
+### [1.CHiBi-CHiLOの基本](./#1chibi-chilono)
 
 CHiBi-CHiLOの構造や，Moodleからのアクセス方法について解説しています．
 
