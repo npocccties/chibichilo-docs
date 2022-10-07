@@ -10,7 +10,8 @@
 ## 2. ブック作成 <a href="#book" id="book"></a>
 
 * [- ブック作成の基本](book/create.md)
-* [- 検索・削除](book/edit.md)
+* [- 検索](book/search.md)
+* [- 削除](book/delete.md)
 * [- シェア](book/share.md)
 * [- 公開](book/release.md)
 * [- 作成者の設定](book/author.md)
