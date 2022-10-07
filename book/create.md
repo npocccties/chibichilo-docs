@@ -82,7 +82,7 @@ A-3ブック一覧画面の「提供中のブック」エリアに設定した�
 
 ### ❷ブック一覧画面で配信設定する
 
-ブック一覧画面で，配信するブックを選択し，<img src="../.gitbook/assets/linkoff.png" alt="" data-size="line">アイコンをクリックすると，「提供中のブック」エリアに設定したブックが表示され，配信設定が完了したことを確認できます．
+ブック一覧画面で，配信するブックを選択し，<img src="../.gitbook/assets/linkoff.png" alt="" data-size="line">アイコンをクリックすると<img src="../.gitbook/assets/linkon.png" alt="" data-size="line">に切り替わり，「提供中のブック」エリアに配信設定したブックが表示されます．
 
 ![](../.gitbook/assets/book-create\_07.png)
 
