@@ -90,14 +90,14 @@ A-3ブック一覧画面の「提供中のブック」エリアに設定した�
 
 以上で，ビデオ教材の配信設定は終了です． CHiBi-CHiLOの画面をとして，LMS(Moodle）の画面に戻り，設定した外部ツールをクリックすると，設定したビデオが配信されていることを確認できます．
 
-![](<../.gitbook/assets/image (81).png>)
+![](<../.gitbook/assets/book-create_08.png>)
 
 モバイルで見た場合
 
-![](<../.gitbook/assets/image (482).png>)
+![](<../.gitbook/assets/book-create_09.png>)
 
 ### （1）ブックの修正
 
-ブックのペンマークをクリックします．
+ブックのタイトルの右にあるペンマークをクリックします．
 
-![](<../.gitbook/assets/image (93).png>)
+![](<../.gitbook/assets/book-create_10.png>)
