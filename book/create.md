@@ -76,7 +76,7 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 ![](../.gitbook/assets/book-create\_05.png)
 
-ブック一覧画面の「提供中のブック」エリアに配信設定したブックが表示されます．
+ブック一覧画面にリンク元のLTIのタイトルとブックのタイトルが表示されます．
 
 ![](../.gitbook/assets/book-create\_06.png)
 
