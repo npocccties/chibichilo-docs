@@ -10,15 +10,15 @@
 ## 2. ブック作成 <a href="#book" id="book"></a>
 
 * [- ブック作成の基本](book/create.md)
-* [- 検索](book/search.md)
-* [- 削除](book/delete.md)
-* [- シェア](book/share.md)
-* [- 公開](book/release.md)
+* [- ブックの検索](book/search.md)
+* [- ブックの削除](book/delete.md)
+* [- ブックのシェア](book/share.md)
+* [- ブックの公開](book/release.md)
 * [- 作成者の設定](book/author.md)
 * [- キーワードの設定](book/keyword.md)
 * [- 解説の設定](book/commentary.md)
 * [- トピックを再利用](book/reuse-topic.md)
-* [- トピックの並び替えと削除](book/topic-order.md)
+* [- ブック内のトピックの並び替えと削除](book/topic-order.md)
 
 ## 3. トピック作成 <a href="#topic" id="topic"></a>
 
