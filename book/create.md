@@ -5,9 +5,11 @@ description: >-
 
 # - ブック作成の基本
 
-CHiBi-CHiLOの編集画面へのアクセス方法は以下をご確認下さい．
+CHiBi-CHiLOへのアクセス方法は以下をご確認下さい．
 
-* [CHiBi-CHiLOへのアクセス](../operation/book/start/access.md)
+{% content-ref url="../chibichilo/access.md" %}
+[access.md](../chibichilo/access.md)
+{% endcontent-ref %}
 
 ## 1. ブックの作成
 
