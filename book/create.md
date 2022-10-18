@@ -64,7 +64,9 @@ CHiBi-CHiLOのグローバルメニューの「ブック」をクリックして
 
 追加したトピックの並び変えや削除は以下をご確認下さい．
 
-* [トピックの並び順の変更と削除](../operation/book/operation/book/topic\_management/topic-order.md)
+{% content-ref url="topic-order.md" %}
+[topic-order.md](topic-order.md)
+{% endcontent-ref %}
 
 ## 3. LMSからのリンク設定
 
