@@ -10,6 +10,7 @@
 ## 2. ブック作成 <a href="#book" id="book"></a>
 
 * [- ブック作成の基本](book/create.md)
+* [- ブック内のトピックの並び替えと削除](book/topic-order.md)
 * [- ブックの検索](book/search.md)
 * [- ブックの削除](book/delete.md)
 * [- ブックのシェア](book/share.md)
@@ -18,7 +19,6 @@
 * [- キーワードの設定](book/keyword.md)
 * [- 解説の設定](book/commentary.md)
 * [- トピックを再利用](book/reuse-topic.md)
-* [- ブック内のトピックの並び替えと削除](book/topic-order.md)
 
 ## 3. トピック作成 <a href="#topic" id="topic"></a>
 
