@@ -22,8 +22,8 @@
 ## 3. トピック作成 <a href="#topic" id="topic"></a>
 
 * [- トピック作成の基本](topic/create.md)
-* [- 検索](topic/search.md)
-* [- 削除](topic/delete.md)
+* [- トピックの検索](topic/search.md)
+* [- トピックの削除](topic/delete.md)
 * [- 動画のトリミング](topic/trim.md)
 * [- 字幕の追加](topic/subtitles.md)
 * [- 作成者の設定](topic/author.md)
