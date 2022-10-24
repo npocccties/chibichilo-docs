@@ -8,7 +8,7 @@
 
 追加後にーで追加したキーワードを削除できます．
 
-![](<../.gitbook/assets/image (283).png>)
+![](<../.gitbook/assets/image (260).png>)
 
 ## 作成（更新）をクリック
 
