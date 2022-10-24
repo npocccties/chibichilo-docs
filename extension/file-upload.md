@@ -26,6 +26,12 @@ description: Wowza対応のCHiBi-CHiLOは，トピックの作成・編集画面
 
 ![](../.gitbook/assets/file-upload\_03.png)
 
-アップロードが完了すると動画が表示されます．回線などの影響でアップロードに時間がかかる可能性がありますので，アップが完了するまでお待ちください．
+アップロードが完了すると動画が表示されます．
+
+{% hint style="warning" %}
+回線などの影響でアップロードに時間がかかる可能性がありますので，アップが完了するまでお待ちください．
+{% endhint %}
+
+
 
 ![](../.gitbook/assets/file-upload\_04.png)
