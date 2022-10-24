@@ -4,6 +4,12 @@ description: CHiBi-CHiLOで使用するトピック機能の作成方法や設�
 
 # - トピック作成の基本
 
+CHiBi-CHiLOへのアクセス方法は以下をご確認下さい．
+
+{% content-ref url="../chibichilo/access.md" %}
+[access.md](../chibichilo/access.md)
+{% endcontent-ref %}
+
 ## 1. トピックの作成方法
 
 ### （1）ブックの作成・編集画面からトピックを開く
