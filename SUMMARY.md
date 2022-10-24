@@ -17,7 +17,6 @@
 * [- ブックの作成者の設定](book/author.md)
 * [- ブックのキーワードの設定](book/keyword.md)
 * [- ブックの解説の設定](book/commentary.md)
-* [- トピックを再利用](book/reuse-topic.md)
 
 ## 3. トピック作成 <a href="#topic" id="topic"></a>
 
@@ -31,6 +30,7 @@
 * [- 解説の設定](topic/commentary.md)
 * [- ライセンスの設定](topic/license-settings.md)
 * [- シェア](topic/share.md)
+* [- トピックを再利用](topic/reuse-topic.md)
 
 ## 4. 学習分析 <a href="#dashboard" id="dashboard"></a>
 
