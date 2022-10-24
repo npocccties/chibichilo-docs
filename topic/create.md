@@ -48,7 +48,11 @@ CHiBi-CHiLOのグローバルメニューの「トピック」をクリックし
 [file-upload.md](../extension/file-upload.md)
 {% endcontent-ref %}
 
-また，「動画を編集する」をクリックすると，動画の前後カットや，字幕の挿入が行なえます．詳しくは以下をご覧ください．
+また，「動画を編集する」をクリックすると，動画の前後カット（トリミング）や，字幕の挿入が行なえます．詳しくは以下をご覧ください．
+
+{% content-ref url="trim.md" %}
+[trim.md](trim.md)
+{% endcontent-ref %}
 
 ### ❹ 学習時間の設定
 
