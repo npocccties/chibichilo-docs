@@ -14,9 +14,9 @@
 * [- ブックの削除](book/delete.md)
 * [- ブックのシェア・再利用](book/share.md)
 * [- ブックの公開](book/release.md)
-* [- 作成者の設定](book/author.md)
-* [- キーワードの設定](book/keyword.md)
-* [- 解説の設定](book/commentary.md)
+* [- ブックの作成者の設定](book/author.md)
+* [- ブックのキーワードの設定](book/keyword.md)
+* [- ブックの解説の設定](book/commentary.md)
 * [- トピックを再利用](book/reuse-topic.md)
 
 ## 3. トピック作成 <a href="#topic" id="topic"></a>
