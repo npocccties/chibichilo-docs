@@ -12,7 +12,7 @@
 * [- ブック作成の基本](book/create.md)
 * [- ブックの検索](book/search.md)
 * [- ブックの削除](book/delete.md)
-* [- ブックのシェア](book/share.md)
+* [- ブックのシェア・再利用](book/share.md)
 * [- ブックの公開](book/release.md)
 * [- 作成者の設定](book/author.md)
 * [- キーワードの設定](book/keyword.md)
