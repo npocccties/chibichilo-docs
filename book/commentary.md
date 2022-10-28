@@ -27,7 +27,7 @@ CHiBi-CHiLOの解説欄は[GitHub Flavored Markdown](https://github.github.com/g
 | ❷ URL直接入力 | URLを入力                       | `https://www.cccties.org/` |
 | ❸ 斜体      | 文字を半角\*で囲む                   | <code>\*斜体\*</code>                                                    |
 | ❹ 太字（強調）  | 文字を半角\*2つで囲む                 | <code>\*\*太字\*\*</code>                                                |
-| ❺ 罫線      | -(半角ハイフン）を3つ入力する             | <code>---</code>                                                       |
+| ❺ 罫線      | -を3つ入力             | <code>---</code>                                                       |
 | ❻ 番号付きリスト | 半角数字.のあとに半角スペース      | <code>1\. 番号付きリスト<br>2\. 番号付きリスト</code>                    |
 | ❼ 番号なしリスト | -.のあとに半角スペース | <code>-\. 番号なしリスト<code>                                                |
 
