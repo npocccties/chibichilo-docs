@@ -24,12 +24,12 @@ description: 検索や絞り込みに使用するキーワードを設定出来�
 
 ❶ブックの作成・編集画面で，キーワードの入力欄に文字を入力して＋で追加します．
 
-（画像）
+![](<../.gitbook/assets/book-keyword_01.png>)
 
 ❷入力したキーワード削除する場合は，キーワードの横にある×ボタンをクリックします．
 
-（画像）
+![](<../.gitbook/assets/book-keyword_02.png>)
 
 ❸作成または更新をクリックします．
 
-（画像）
+![](<../.gitbook/assets/book-keyword_03.png>)
