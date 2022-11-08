@@ -2,7 +2,7 @@
 description: YouTubeかWowzaの動画の場合，字幕を追加できます．
 ---
 
-# 字幕の設定
+# - 字幕の追加
 
 ## 1．字幕について
 
@@ -12,23 +12,22 @@ description: YouTubeかWowzaの動画の場合，字幕を追加できます．
 
 Vimeoの場合，CHiBi-CHiLOから字幕を追加することはできませんので，Vimeoの画面で字幕を追加してください．
 
-* キャプションと字幕 – ヘルプセンター - Vimeo
+* [キャプションと字幕 – ヘルプセンター - Vimeo](https://vimeo.zendesk.com/hc/ja/articles/224968828-%E3%82%AD%E3%83%A3%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E5%AD%97%E5%B9%95)
 
 ### (2)字幕のファイル形式について，
 
 字幕はWebVTT形式のファイルに対応しています．詳細は以下の参考URLよりご確認ください．
 
 * [https://www.w3.org/TR/webvtt1/](https://www.w3.org/TR/webvtt1/)
-
-* [https://developer.mozilla.org/ja/docs/Web/API/WebVTT_API](https://developer.mozilla.org/ja/docs/Web/API/WebVTT_API)
+* [https://developer.mozilla.org/ja/docs/Web/API/WebVTT\_API](https://developer.mozilla.org/ja/docs/Web/API/WebVTT\_API)
 
 ## 2．字幕を追加する
 
-❶トピックの作成・編集時に **[動画を編集する]** をクリックします． **[字幕を追加]** ボタンが表示されます．
+❶トピックの作成・編集時に **\[動画を編集する]** をクリックします． **\[字幕を追加]** ボタンが表示されます．
 
-❷ **[字幕を追加]** ボタンをクリックします．
+❷ **\[字幕を追加]** ボタンをクリックします．
 
-❸字幕のアップロード画面が開くので，ファイルと言語を選択し， **[アップロード]** をクリックします．
+❸字幕のアップロード画面が開くので，ファイルと言語を選択し， **\[アップロード]** をクリックします．
 
 ![](<../.gitbook/assets/image (483).png>)
 
