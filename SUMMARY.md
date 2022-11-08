@@ -25,11 +25,11 @@
 * [- トピックの削除](topic/delete.md)
 * [- 動画のトリミング](topic/trim.md)
 * [- 字幕の追加](topic/subtitles.md)
-* [- 作成者の設定](topic/author.md)
-* [- キーワードの設定](topic/keyword.md)
-* [- 解説の設定](topic/commentary.md)
+* [- トピックの作成者の設定](topic/author.md)
+* [- トピックのキーワードの設定](topic/keyword.md)
+* [- トピックの解説の設定](topic/commentary.md)
 * [- ライセンスの設定](topic/license-settings.md)
-* [- シェア](topic/share.md)
+* [- トピックのシェア](topic/share.md)
 * [- トピックを再利用](topic/reuse-topic.md)
 
 ## 4. 学習分析 <a href="#dashboard" id="dashboard"></a>
