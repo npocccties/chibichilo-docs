@@ -27,7 +27,7 @@ CHiBi-CHiLOの解説欄は[GitHub Flavored Markdown](https://github.github.com/g
 | ❻ 番号付きリスト | 半角数字.のあとに半角スペース   | <p><code>1. 番号付きリスト</code><br><code>2. 番号付きリスト</code></p> |
 | ❼ 番号なしリスト | -.のあとに半角スペース      | `-. 番号なしリスト`                                              |
 
-なお，この書式はトピックの解説にも利用することができます．
+なお，この書式はブックの解説にも利用することができます．
 
 {% content-ref url="../book/commentary.md" %}
 [commentary.md](../book/commentary.md)
