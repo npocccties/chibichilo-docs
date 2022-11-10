@@ -28,6 +28,12 @@ CHiBi-CHiLOのグローバルメニューの「トピック」をクリックし
 
 ![](../.gitbook/assets/topic-create\_02.png)
 
+トピック一覧画面から作成したトピックは，ブック編集画面の「トピックの再利用」でブックに追加することができます．詳しくは以下をご覧ください．
+
+{% content-ref url="../book/share.md" %}
+[share.md](../book/share.md)
+{% endcontent-ref %}
+
 ## 2．トピックの情報の入力
 
 ![](../.gitbook/assets/topic-create\_03.png)
