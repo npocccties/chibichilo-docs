@@ -10,7 +10,7 @@ description: ブックの内容を説明する解説を追加できます．
 
 ![](<../.gitbook/assets/book-commentary_01.png>)
 
-❷解説の入力欄に，ブックの解説文を入力します．[文字の書式について](commentary.md#nonitsuite)もご参照ください．
+❷解説の入力欄に，ブックの解説文を入力します．リンクや文字の装飾等については，[文字の書式について](commentary.md#nonitsuite)もご参照ください．
 
 ❸画面下部の「作成」または「更新」をクリックします．
 
