@@ -33,7 +33,7 @@ CHiBi-CHiLOの解説欄は[GitHub Flavored Markdown](https://github.github.com/g
 [commentary.md](../book/commentary.md)
 {% endcontent-ref %}
 
-## 2．解説の入力内容の確認
+## 3．解説の入力内容の確認
 
 トピックの解説の入力内容は，ブック閲覧画面の，トピックタイトルの下に記載されます．
 
