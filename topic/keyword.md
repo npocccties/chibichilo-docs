@@ -24,13 +24,13 @@ description: 検索や絞り込みに使用するキーワードを設定出来�
 
 ❶トピックの作成・編集画面で，キーワードの入力欄に文字を入力して＋で追加します．
 
-（画像）
+![](../.gitbook/assets/topic-keyword\_01.png)
 
 ❷入力したキーワード削除する場合は，キーワードの横にある×ボタンをクリックします．
 
-（画像）
+![](../.gitbook/assets/topic-keyword\_02.png)
 
 ❸作成または更新をクリックします．
 
-（画像）
+![](../.gitbook/assets/topic-keyword\_03.png)
 　
