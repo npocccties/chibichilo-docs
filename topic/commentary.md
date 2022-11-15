@@ -10,7 +10,7 @@ description: トピックの解説を追加できます．
 
 ❷画面下部の「作成」または「更新」をクリックします．
 
-（❶と❷の画像）
+![](../.gitbook/assets/topic-commentary_01.png)
 
 ## 2．文字の書式について
 
@@ -37,4 +37,4 @@ CHiBi-CHiLOの解説欄は[GitHub Flavored Markdown](https://github.github.com/g
 
 トピックの解説の入力内容は，ブック閲覧画面の，トピックタイトルの下に記載されます．
 
-（画像）
+![](../.gitbook/assets/topic-commentary_02.png)
