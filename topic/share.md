@@ -3,7 +3,7 @@ description: >-
   CHiBi-CHiLOでは，自分が作成したブックやトピックを，他の作成者と共有できます．他の作成者は，それらを再利用したり，複製して新たなブック・トピックを作成することができます．
 ---
 
-# - ブックのシェア
+# - トピックのシェア・再利用
 
 ## 1．シェアの設定例
 
@@ -25,47 +25,47 @@ CHiBi-CHiLOではブックとトピックそれぞれにシェアの設定があ
 
 ブックの作成または編集画面から，トピックの編集画面を開き，「このトピックをシェアする」にチェックを入れ，画面下部の「作成」または「更新」をクリックします．
 
-![](<../.gitbook/assets/book-share_02.png>)
+![](../.gitbook/assets/book-share\_02.png)
 
 ## 3．再利用・フォーク
 
-他の教員が[2．シェア設定](share.md#2-sheano)を行ったブックやトピックは，以下の形で再利用・フォークが行なえます．
+他の教員が[シェア設定](share.md#2-topikkunoshea)を行ったトピックは，以下の形で再利用・フォークが行なえます．
 
 ### （1）ブックの再利用
 
 ❶ブックの作成または編集画面の「ブックの再利用」をクリックすると，ブック名の一覧が表示されます．
 
-![](<../.gitbook/assets/book-share_03.png>)
+![](../.gitbook/assets/book-share\_03.png)
 
 ❷ブック名をクリックすると，トピックの一覧が表示されますので，チェックを入れて「再利用」をクリックすると，チェックを入れたトピックがブックに追加されます．
 
-![](<../.gitbook/assets/book-share_04.png>)
+![](../.gitbook/assets/book-share\_04.png)
 
 ❸ブック一覧の検索画面と同様に，検索や絞り込みが可能です．
 
-![](<../.gitbook/assets/book-share_05.png>)
+![](../.gitbook/assets/book-share\_05.png)
 
 ❹作成者を「自分以外」にすると，他の作成者の，シェアされているブックの一覧が表示されます．
 
-![](<../.gitbook/assets/book-share_06.png>)
+![](../.gitbook/assets/book-share\_06.png)
 
 ### （2）トピックの再利用
 
 ❶ブックの作成または編集画面の「トピックの再利用」をクリックすると，トピックの一覧が表示されます．
 
-![](<../.gitbook/assets/book-share_07.png>)
+![](../.gitbook/assets/book-share\_07.png)
 
 ❷トピックにチェックを入れて「再利用」をクリックすると，チェックを入れたトピックがブックに追加されます．
 
-![](<../.gitbook/assets/book-share_08.png>)
+![](../.gitbook/assets/book-share\_08.png)
 
 ❸トピック一覧の検索画面と同様に，検索や絞り込みが可能です．
 
-![](<../.gitbook/assets/book-share_09.png>)
+![](../.gitbook/assets/book-share\_09.png)
 
 ❹作成者を「自分以外」にすると，他の作成者の，シェアされているトピックの一覧が表示されます．
 
-![](<../.gitbook/assets/book-share_10.png>)
+![](../.gitbook/assets/book-share\_10.png)
 
 ### （3）トピックのフォーク
 
@@ -73,4 +73,4 @@ CHiBi-CHiLOではブックとトピックそれぞれにシェアの設定があ
 
 フォークしたトピックのタイトルの末尾には「\_フォーク」と追加されます．
 
-![](<../.gitbook/assets/book-share_12.png>)
+![](../.gitbook/assets/book-share\_12.png)
