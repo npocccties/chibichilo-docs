@@ -16,26 +16,26 @@ description: トピックに適用するクリエイティブ・コモンズ・�
 
 ページ下部の「詳細を設定する」をクリックし，ライセンスのリストをクリックします．
 
-（画像）
+![](../.gitbook/assets/topic-licence-settings\_01.png)
 
 ### ❷ ライセンスを選択する
 
 リストが開き，ライセンスが表示されるので必要なものをクリックします．
 
-（画像）
+![](../.gitbook/assets/topic-licence-settings\_02.png)
 
 ### ❸ 作成・更新する
 
 「作成」もしくは「更新」をクリックします．
 
-（画像）
+![](../.gitbook/assets/topic-licence-settings\_03.png)
 
 ## 2．設定したライセンスの確認
 
 設定したライセンスは，ブック閲覧画面の，トピックタイトルの右側に表示されます．
 
-（画像）
+![](../.gitbook/assets/topic-licence-settings\_04.png)
 
 また，トピック一覧の，動画サムネイルの右下にも表示されます．
 
-（画像）
+![](../.gitbook/assets/topic-licence-settings\_05.png)
