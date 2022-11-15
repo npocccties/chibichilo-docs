@@ -37,4 +37,4 @@ CHiBi-CHiLOの解説欄は[GitHub Flavored Markdown](https://github.github.com/g
 
 トピックの解説の入力内容は，ブック閲覧画面の，トピックタイトルの下に記載されます．
 
-![](../.gitbook/assets/topic-commentary_02.png)
+![](../.gitbook/assets/topic-commentary_02.png)\
