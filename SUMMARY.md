@@ -28,7 +28,7 @@
 * [- トピックの作成者の設定](topic/author.md)
 * [- トピックのキーワードの設定](topic/keyword.md)
 * [- トピックの解説の設定](topic/commentary.md)
-* [- ライセンスの設定](topic/licence-settings.md)
+* [- ライセンスの設定](topic/license-settings.md)
 * [- トピックのシェア・再利用](topic/share.md)
 
 ## 4. 学習分析 <a href="#analytics" id="analytics"></a>
