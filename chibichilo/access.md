@@ -26,7 +26,7 @@ CHiBi-CHiLOに直接ログインしたり，編集権限のないコースから
 
 活動またはリソースの一覧から **「外部ツール」** をクリックします．
 
-![](<../.gitbook/assets/image (230).png>)
+![](<../.gitbook/assets/chibichilo-access_01.png>)
 
 ### ❺ 外部ツールの設定
 
@@ -36,10 +36,10 @@ CHiBi-CHiLOに直接ログインしたり，編集権限のないコースから
 
 **「保存してコースに戻る」** をクリックします．
 
-![](<../.gitbook/assets/image (416).png>)
+![](<../.gitbook/assets/chibichilo-access_02.png>)
 
 ### ❼ CHiBi-CHiLOの編集画面の表示
 
 コースに❹で設定した外部ツールが追加されます．追加された外部ツールをクリックすると，CHiBi-CHiLOの編集画面が表示されます．
 
-![](<../.gitbook/assets/image (115).png>)
+![](<../.gitbook/assets/chibichilo-access_03.png>)
