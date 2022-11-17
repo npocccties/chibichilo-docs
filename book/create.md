@@ -140,7 +140,7 @@ CHiBi-CHiLOの画面をとして，LMS(Moodle）の画面に戻り，設定し�
 
 CHiBi-CHiLO上部のナビゲーションメニューの「配信中のブック」をクリックすると，現在配信されているCHiBi-CHiLOの閲覧画面を開くことができます．
 
-（画像）
+![](../.gitbook/assets/book-create\_09-2.png)
 
 ## 5．ブックの修正
 
