@@ -8,7 +8,7 @@ description: ここでは，ブックの削除方法について解説します�
 
 ### ❶ ブックの編集画面を開く
 
-ブック閲覧画面の，ブックタイトル横のえんぴつアイコン，またはブック一覧画面の削除したいブックのえんぴつアイコン<img src="../.gitbook/assets/pencil.png" alt="" data-size="line">をクリックして，ブックの編集画面を開きます．
+ブック閲覧画面の，ブックタイトル横のえんぴつアイコン<img src="../.gitbook/assets/pencil.png" alt="" data-size="line">，またはブック一覧画面の削除したいブックのえんぴつアイコン<img src="../.gitbook/assets/pencil.png" alt="" data-size="line">をクリックして，ブックの編集画面を開きます．
 
 ![](../.gitbook/assets/book-delete\_01.png)
 

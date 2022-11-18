@@ -144,6 +144,6 @@ CHiBi-CHiLO上部のナビゲーションメニューの「配信中のブック
 
 ## 5．ブックの修正
 
-ブックのタイトルの右にあるペンマークをクリックします．
+ブックのタイトルの右にあるえんぴつアイコン<img src="../.gitbook/assets/pencil.png" alt="" data-size="line">をクリックします．
 
 ![](../.gitbook/assets/book-create\_10.png)
