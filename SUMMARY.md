@@ -12,6 +12,7 @@
 * [- ブック作成の基本](book/create.md)
 * [- ブックの検索](book/search.md)
 * [- ブックの削除](book/delete.md)
+* [LTIリンクの管理](book/ltirinkuno.md)
 * [- ブックのシェア・再利用](book/share.md)
 * [- ブックの公開](book/release.md)
 * [- ブックの作成者の設定](book/author.md)
