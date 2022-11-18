@@ -32,7 +32,7 @@
 * [- ライセンスの設定](topic/license-settings.md)
 * [- トピックのシェア・再利用](topic/share.md)
 
-## 4. 学習分析 <a href="#analytics" id="analytics"></a>
+## 4. 視聴状況の管理 <a href="#analytics" id="analytics"></a>
 
 * [- 学習分析機能](analytics/dashboard.md)
 
