@@ -34,9 +34,9 @@ description: >-
 
 ![](../.gitbook/assets/lti-link\_04.png)
 
-## 4．LTIリンクの情報を削除する
+## 4．配信を解除して，LTIリンクの情報を削除する
 
-LMSのLTIリンク（Moodleでいう外部ツール）を削除した場合，CHiBi-CHiLOにはLTIリンクの情報が残りますが，以下の手順で，LTIリンクの情報を削除できます．
+LMSのLTIリンク（Moodleでいう外部ツール）を削除した場合，CHiBi-CHiLOにはLTIリンクの情報が残りますが，以下の手順で，ブックの配信を解除し，LTIリンクの情報を削除できます．
 
 ### ❶情報を削除したいLTIリンクにチェックを入れる
 
