@@ -9,11 +9,11 @@ description: >-
 
 上部ナビゲーションメニューの「リンク」から，LTIリンクの管理画面を開くことができます．
 
-（画像）
+![](../.gitbook/assets/lti-link\_01.png)
 
 ## 2．画面の説明
 
-（画像，❶～の番号を入れる）
+![](../.gitbook/assets/lti-link\_02.png)
 
 | 機能          | 説明                                                                                  |
 | ----------- | ----------------------------------------------------------------------------------- |
@@ -28,11 +28,11 @@ description: >-
 
 ブックタイトル右の目のアイコン<img src="../.gitbook/assets/preview.png" alt="" data-size="line">をクリックすると，リンクされているブックをプレビューできます．
 
-（画像）
+![](../.gitbook/assets/lti-link\_03.png)
 
 プレビューアイコン右のえんぴつ（編集）アイコン<img src="../.gitbook/assets/pencil.png" alt="" data-size="line">をクリックすると，ブックの編集画面を開くことができます．
 
-（画像）
+![](../.gitbook/assets/lti-link\_04.png)
 
 ## 4．LTIリンクの情報を削除する
 
@@ -42,16 +42,16 @@ LMSのLTIリンク（Moodleでいう外部ツール）を削除した場合，CH
 
 情報を削除したいLTIリンクの左にあるチェックボックスにチェックを入れます（複数選択可）
 
-（画像）
+![](../.gitbook/assets/lti-link\_05.png)
 
 ### ❷画面下部の「○件の配信解除」ボタンをクリック
 
 画面下部の「○件の配信解除」ボタンをクリックします．
 
-（画像）
+![](../.gitbook/assets/lti-link\_06.png)
 
 ### ❸確認画面で「OK」
 
 確認画面が表示されますので，「OK」をクリックすると，LTIリンクの情報が削除されます．
 
-（画像）
+![](../.gitbook/assets/lti-link\_07.png)
