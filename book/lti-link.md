@@ -42,11 +42,11 @@ description: >-
 
 検索条件（すべて・リンク・ブック・トピック）を指定することもできます．
 
-（画像）
+![](../.gitbook/assets/lti-link\_05.png)
 
 複数キーワードを半角スペースで区切ると，AND検索（すべてのキーワードを含む検索）になります．
 
-（画像）
+![](../.gitbook/assets/lti-link\_06.png)
 
 ## 5．配信を解除して，LTIリンクの情報を削除する
 
@@ -56,16 +56,16 @@ LMSのLTIリンク（Moodleでいう外部ツール）を削除した場合，CH
 
 情報を削除したいLTIリンクの左にあるチェックボックスにチェックを入れます（複数選択可）
 
-![](../.gitbook/assets/lti-link\_05.png)
+![](../.gitbook/assets/lti-link\_07.png)
 
 ### ❷画面下部の「○件の配信解除」ボタンをクリック
 
 画面下部の「○件の配信解除」ボタンをクリックします．
 
-![](../.gitbook/assets/lti-link\_06.png)
+![](../.gitbook/assets/lti-link\_08.png)
 
 ### ❸確認画面で「OK」
 
 確認画面が表示されますので，「OK」をクリックすると，LTIリンクの情報が削除されます．
 
-![](../.gitbook/assets/lti-link\_07.png)
+![](../.gitbook/assets/lti-link\_09.png)
