@@ -23,6 +23,7 @@ description: >-
 | ❹プレビューアイコン<img src="../.gitbook/assets/preview.png" alt="" data-size="line">  | クリックすると，リンクされているブックをプレビューすることができます．（[詳細](lti-link.md#3rinkusareteirubukkunopureby)） |
 | ❺えんぴつ（編集）アイコン<img src="../.gitbook/assets/pencil.png" alt="" data-size="line">     | クリックすると，リンクされているブックを編集することができます．（[詳細](lti-link.md#3rinkusareteirubukkunopureby)）    |
 | ❻絞り込み       | 外部ツールを作成したLMSを絞り込めます．                                                               |
+|❼検索ボックス|表示されているLTIリンク名・ブック名，ブック内のトピック名を検索して絞り込めます（詳細）|
 
 ## 3．リンクされているブックのプレビュー・編集
 
@@ -34,7 +35,19 @@ description: >-
 
 ![](../.gitbook/assets/lti-link\_04.png)
 
-## 4．配信を解除して，LTIリンクの情報を削除する
+## 4. 検索
+
+検索ワード欄に，検索ワードを入力して，Enterもしくは右側の検索アイコンをクリックします．
+
+検索条件（すべて・リンク・ブック・トピック）を指定することもできます．
+
+（画像）
+
+複数キーワードを半角スペースで区切ると，AND検索（すべてのキーワードを含む検索）になります．
+
+（画像）
+
+## 5．配信を解除して，LTIリンクの情報を削除する
 
 LMSのLTIリンク（Moodleでいう外部ツール）を削除した場合，CHiBi-CHiLOにはLTIリンクの情報が残りますが，以下の手順で，ブックの配信を解除し，LTIリンクの情報を削除できます．
 
