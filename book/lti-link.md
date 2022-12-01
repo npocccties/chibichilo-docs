@@ -9,7 +9,7 @@ description: >-
 
 上部ナビゲーションメニューの「リンク」から，LTIリンクの管理画面を開くことができます．
 
-　
+![](../.gitbook/assets/lti-link\_01.png)
 
 ## 2．画面の説明
 
