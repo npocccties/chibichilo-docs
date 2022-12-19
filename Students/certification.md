@@ -12,13 +12,13 @@ description: 顔認証をおこない，本人確認をおこないます．
 
 表示されない場合，カメラが正しく接続されているか，または，カメラが他のアプリ等で使用されていないかご確認ください．
 
-![](<.gitbook/assets/image (490).png>)
+![](</.gitbook/assets/image (490).png>)
 
 ## 2. 撮影
 
 **「顔認証」** をクリックします．
 
-![](<.gitbook/assets/image (491).png>)
+![](</.gitbook/assets/image (491).png>)
 
 ## 3. 照合
 
@@ -26,4 +26,4 @@ description: 顔認証をおこない，本人確認をおこないます．
 
 認証に失敗した場合は再度 **「顔認証」** をおこないます． 何度かおこなっても認証されない場合，事務局までお問い合わせください．
 
-![](<.gitbook/assets/image (492).png>)
+![](</.gitbook/assets/image (492).png>)
