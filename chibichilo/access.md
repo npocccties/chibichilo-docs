@@ -46,6 +46,6 @@ CHiBi-CHiLOに直接ログインしたり，編集権限のないコースから
 
 ### ❼ CHiBi-CHiLOの編集画面の表示
 
-コースに❹で設定した外部ツールが追加されます．追加された外部ツールをクリックすると，CHiBi-CHiLOの編集画面が表示されます．
+コースに❹で設定したCHiBi-CHiLO（外部ツール）が追加されます．クリックすると，CHiBi-CHiLOの編集画面が表示されます．
 
 ![](../.gitbook/assets/chibichilo-access\_03.png)
