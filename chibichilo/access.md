@@ -26,19 +26,19 @@ CHiBi-CHiLOに直接ログインしたり，編集権限のないコースから
 
 活動またはリソースの一覧から**「CHiBi-CHiLO」**（存在しない場合は **「外部ツール」** ）をクリックします．
 
-（CHiBi-CHiLOのほうをクリックしている画像）
+![](<../.gitbook/assets/chibichilo-access_01.png>)
 
 ### ❺ 「CHiBi-CHiLO」（外部ツール）の設定
 
 ❹で**「CHiBi-CHiLO」**をクリックした場合は， **「活動名」** を設定します．\
 &#x20;**「活動名」** はMoodleに表示されるリソースの名前です．
 
-（画像）
+![](<../.gitbook/assets/chibichilo-access_02.png>)
 
 ❹で**「外部ツール」**をクリックした場合は**，「活動名」** と**「事前設定ツール」** を設定します． \
 **「活動名」** はMoodleに表示されるリソースの名前です．**「事前設定ツール」** は，CHiBi-CHiLOを選択します．
 
-（画像）
+![](<../.gitbook/assets/chibichilo-access_03.png>)
 
 ### ❻ 保存してコースに戻る
 
@@ -48,4 +48,4 @@ CHiBi-CHiLOに直接ログインしたり，編集権限のないコースから
 
 コースに❹で設定したCHiBi-CHiLO（外部ツール）が追加されます．クリックすると，CHiBi-CHiLOの編集画面が表示されます．
 
-（画像）
+![](<../.gitbook/assets/chibichilo-access_04.png>)
