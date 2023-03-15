@@ -1,5 +1,5 @@
 ---
-description: CHiBi-CHiLOの学習者の視聴状況は，LMSに反映されます．このページではその仕組みと，LMS（Moodle）に視聴状況を反映させる方法を紹介します．
+description: CHiBi-CHiLOの学習者の視聴状況は，LMSにフィードバックされます．このページではその仕組みと，LMS（Moodle）に視聴状況を反映させる方法を紹介します．
 ---
 
 # - 視聴状況の反映
