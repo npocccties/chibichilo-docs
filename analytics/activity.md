@@ -1,24 +1,24 @@
 ---
-description: CHiBi-CHiLOの学習者の視聴状況は，LMSにフィードバックされます．このページではその仕組みと，LMS（Moodle）に視聴状況を反映させる方法を紹介します．
+description: CHiBi-CHiLOの学習者の視聴状況は，LMSに反映されます．このページではその仕組みと，LMS（Moodle）に視聴状況を反映させる方法を紹介します．
 ---
 
-# - 視聴状況のフィードバック
+# - 視聴状況の反映
 
-## 1．視聴状況のフィードバックの仕組み
+## 1．視聴状況の反映の仕組み
 
 CHiBi-CHiLOでは，学習者の視聴状況を管理しており，ブック内のトピックを最後まで視聴すると，学習者の画面では完了マークがつきます．
 
-![](../.gitbook/assets/analytics-activity_01.png)
+![](../.gitbook/assets/analytics-activity\_01.png)
 
-この視聴状況の情報はLMSにフィードバックされます．
+この視聴状況の情報はLMSに反映されます．
 
 Moodleの場合，CHiBi-CHiLOで学習者がブック内のトピックをすべて最後まで視聴すると，Moodleの外部ツールの評点が100%（最大評点）になります．
 
-![](../.gitbook/assets/analytics-activity_02.png)
+![](../.gitbook/assets/analytics-activity\_02.png)
 
 この評点を利用し，外部ツールに，合格点と，合格点の取得を条件とした活動完了の設定をすると，学習者がブックを最後まで視聴した時点で，活動完了にチェックがつくようになります．
 
-![](../.gitbook/assets/analytics-activity_03.png)
+![](../.gitbook/assets/analytics-activity\_03.png)
 
 ## 2．合格点と活動完了の設定
 
@@ -28,19 +28,19 @@ Moodleの場合，CHiBi-CHiLOで学習者がブック内のトピックをすべ
 
 外部ツールを新規に作成するか，または「設定を編集する」を開きます．
 
-![](../.gitbook/assets/analytics-activity_04.png)
+![](../.gitbook/assets/analytics-activity\_04.png)
 
 ### ❷ （新規に作成の場合）「活動名」 と 「事前設定ツール」 を設定
 
 「活動名」 と 「事前設定ツール」 を設定します． 「活動名」 はMoodleに表示されるリソースの名前です．「事前設定ツール」 は，CHiBi-CHiLOを選択します．
 
-![](../.gitbook/assets/analytics-activity_05.png)
+![](../.gitbook/assets/analytics-activity\_05.png)
 
 ### ❸ 「最大評点」と「合格点」を設定
 
 「評点」を開き，「最大評点」と「合格点」を設定します． 「最大評点」と「合格点」を100に設定した場合は，学習者がCHiBi-CHiLOを最後まで視聴すると，評点が100で，合格となります．
 
-![](../.gitbook/assets/analytics-activity_06.png)
+![](../.gitbook/assets/analytics-activity\_06.png)
 
 ### ❹ 「活動完了」を設定
 
@@ -53,13 +53,13 @@ Moodleの場合，CHiBi-CHiLOで学習者がブック内のトピックをすべ
 
 にチェックを入れます．
 
-![](../.gitbook/assets/analytics-activity_07.png)
+![](../.gitbook/assets/analytics-activity\_07.png)
 
 ### ❺ 「保存してコースに戻る」をクリック
 
-「保存してコースに戻る」をクリックして，コースに戻ります．&#x20;
+「保存してコースに戻る」をクリックして，コースに戻ります．
 
-![](../.gitbook/assets/analytics-activity_08.png)
+![](../.gitbook/assets/analytics-activity\_08.png)
 
 新規作成の場合は，ブックの作成・配信設定を行います．ブックの配信設定については，以下をご覧ください．
 
