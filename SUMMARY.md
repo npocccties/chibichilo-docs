@@ -34,7 +34,7 @@
 
 ## 4. 視聴状況の管理 <a href="#analytics" id="analytics"></a>
 
-* [- 視聴状況の反映](analytics/activity.md)
+* [- 視聴状況のフィードバック](analytics/activity.md)
 * [- 学習分析機能](analytics/dashboard.md)
 
 ## 5. 拡張機能 <a href="#extension" id="extension"></a>
