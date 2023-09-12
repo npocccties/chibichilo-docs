@@ -18,7 +18,7 @@
 * [- ブックのキーワードの設定](book/keyword.md)
 * [- ブックの解説の設定](book/commentary.md)
 * [- LTIリンクの管理](book/lti-link.md)
-* [- DeepLink機能でブックを配信](book/deeplinkdebukkuwo.md)
+* [- DeepLink機能でブックを配信](book/deeplink.md)
 
 ## 3. トピック作成 <a href="#topic" id="topic"></a>
 
