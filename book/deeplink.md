@@ -5,7 +5,7 @@ description: >-
 
 # - DeepLinkでブックを配信
 
-❶コースから「CHiBi-CHiLO」（外部ツール）を追加
+## ❶コースから「CHiBi-CHiLO」（外部ツール）を追加
 
 活動またはリソースの一覧から 「CHiBi-CHiLO」（存在しない場合は 「外部ツール」 ）をクリックします．
 
