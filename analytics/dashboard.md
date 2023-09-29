@@ -37,7 +37,7 @@ CHiBi-CHiLOの学習時間を正しく設定していない場合，意図しな
 * 未開封：ブック内のトピックを全て視聴していないの学習者の人数
 
 {% hint style="info" %}
-CHiBi-CHiLOに一度もアクセスしていない学習者は，[受講者の同期](dashboard.md#no-2)をすると未開封の人数に追加されます．
+CHiBi-CHiLOに一度もアクセスしていない学習者は，[受講者の同期](dashboard.md#no-2)をすると，未開封の人数に追加されます．
 {% endhint %}
 
 ![](../.gitbook/assets/dashboard\_03.png)
@@ -51,7 +51,7 @@ CHiBi-CHiLOに一度もアクセスしていない学習者は，[受講者の�
 * 未開封：トピックの動画を開いていない
 
 {% hint style="info" %}
-CHiBi-CHiLOに一度もアクセスしていない学習者は，[受講者の同期](dashboard.md#no-2)をすると，「学習者」タブには\[名前未公開]として表示されます．
+CHiBi-CHiLOに一度もアクセスしていない学習者は，[受講者の同期](dashboard.md#no-2)をすると，\[名前未公開]として表示されます．
 {% endhint %}
 
 ![](../.gitbook/assets/dashboard\_04.png)
