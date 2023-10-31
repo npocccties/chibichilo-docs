@@ -64,14 +64,15 @@ CHiBi-CHiLOに一度もアクセスしていない学習者は，[受講者の�
 コースの受講登録者を削除した状態で「受講者の同期」ボタンをクリックすると，CHiBi-CHiLOの学習者の一覧からも，受講者が削除されますので，ご注意ください．
 {% endhint %}
 
-![](../.gitbook/assets/dashboard\_07.png)
-
 1. 「受講者の同期」をクリックします．
 2. 「同期」をクリックします．
 
-![](../.gitbook/assets/dashboard\_08.png)
+![](../.gitbook/assets/dashboard\_07.png)
 
 3. 受講者に関する情報が表示されます．
+
+![](../.gitbook/assets/dashboard\_08.png)
+
 
 ### 視聴分析対象の切り替え
 
