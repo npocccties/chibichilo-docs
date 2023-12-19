@@ -29,7 +29,7 @@ description: Wowza対応のCHiBi-CHiLOは，トピックの作成・編集画面
 
 アップロードするファイルを選択し，「開く」をクリックします．
 
-![](../.gitbook/assets/file-upload\_03.png)
+<figure><img src="../.gitbook/assets/extension-file-upload_03.png" alt=""><figcaption></figcaption></figure>
 
 アップロードが完了すると動画が表示されます．
 
