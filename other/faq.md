@@ -44,3 +44,8 @@
 ### Q.DeepLinkで配信したCHiBi-CHiLO（外部ツール）で，ブック一覧から配信するブックを変更できない．
 
 DeepLinkで配信したCHiBi-CHiLOは，ブック一覧からは配信設定はできませんので，コース上のCHiBi-CHiLO（外部ツール）の設定から，「コンテンツの選択」をクリックして，配信するブックを選択してください．
+
+### Q.公開モードのCHiBi-CHiLOが表示できない
+
+クッキーが許可されていない場合，以下のエラーが表示されてCHiBi-CHiLOが表示されません。エラーが出た場合，クッキーの設定を確認し，許可してください。
+> Application error: a client-side exception has occurred (see the browser console for more information).
