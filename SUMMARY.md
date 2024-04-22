@@ -37,7 +37,7 @@
 
 * [- 視聴状況のフィードバック](analytics/activity.md)
 * [- 学習分析機能](analytics/dashboard.md)
-* [- タグ・コメント機能](analytics/tagukomento.md)
+* [- タグ・コメント機能](analytics/tag-comment.md)
 
 ## 5. 拡張機能 <a href="#extension" id="extension"></a>
 
