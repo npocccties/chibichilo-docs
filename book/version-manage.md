@@ -10,11 +10,11 @@ description: >-
 完成した版がある場合、それをリリースとしてマークします。\
 ブック編集画面でページ下部にある **「リリース」** を選択します。
 
-![](../.gitbook/assets/book-version-manage\_01.png)
+![](../.gitbook/assets/version-manage_01.png)
 
 バージョンとコメントを入力し， **\[作成]** ボタンを選択します。リリース結果が表示されます。
 
-![](../.gitbook/assets/book-version-manage\_02.png)
+![](../.gitbook/assets/version-manage_02.png)
 
 ## 2. リリースした版の閲覧
 
