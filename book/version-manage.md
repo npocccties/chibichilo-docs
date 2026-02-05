@@ -25,7 +25,7 @@ description: >-
 ブック編集画面でページ下部にある **「ツリー表示」** を選択します。\
 現在開いているブックの○が青色で表示されます。
 
-![](../.gitbook/assets/book-version-manage\_10.png)
+![](../.gitbook/assets/version-manage_10.png)
 
 **「拡大」** や **「縮小」** ， **「リセット」** を選択すると，ツリー表示サイズを調整できます。
 
@@ -33,7 +33,7 @@ description: >-
 
 ツリー表示にある各フォークの **「○」** を選択すると，版管理のブック詳細が表示されます。
 
-![](../.gitbook/assets/book-version-manage\_07.png)
+![](../.gitbook/assets/version-manage_07.png)
 
 ## 3. フォークによる編集と改変
 
@@ -46,10 +46,10 @@ description: >-
 リリースした画面でページ下部にある **「フォーク」** を選択します。\
 確認のメッセージが表示されるので **「OK」** を選択します。
 
-![](../.gitbook/assets/book-version-manage\_03.png)
+![](../.gitbook/assets/version-manage_03.png)
 
 編集可能なコピーが表示されます。
 
-![](../.gitbook/assets/book-version-manage\_11.png)
+![](../.gitbook/assets/version-manage_11.png)
 
 フォークして編集が完了したら，変更を元のプロジェクトに統合します。 必要に応じて新しいリリースを作成してプロジェクトに適用します。 以上が，版管理機能の基本的な概要と利用手順です。これにより，プロジェクトの進化に伴う変更を効果的かつ整然と管理できます。
