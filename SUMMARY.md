@@ -50,7 +50,7 @@
 
 ## 版管理
 
-* [- page1](ban-guan-li/page1.md)
+* [- page1](vc/page1.md)
 
 ## 6. その他 <a href="#other" id="other"></a>
 
