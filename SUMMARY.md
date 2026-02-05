@@ -19,6 +19,7 @@
 * [- ブックの解説の設定](book/commentary.md)
 * [- LTIリンクの管理](book/lti-link.md)
 * [- DeepLinkでブックを配信](book/deeplink.md)
+* [- 版管理機能の使い方](book/version-manage.md)
 
 ## 3. トピック作成 <a href="#topic" id="topic"></a>
 
@@ -47,10 +48,6 @@
 * [- 動画のファイルアップロード](extension/file-upload.md)
 * [- Zoom動画の取り込み](extension/zoom.md)
 * [- 音声合成ビデオ教材の作成](extension/chilospeech.md)
-
-## 版管理
-
-* [- page1](vc/page1.md)
 
 ## 6. その他 <a href="#other" id="other"></a>
 
