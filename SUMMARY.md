@@ -48,6 +48,10 @@
 * [- Zoom動画の取り込み](extension/zoom.md)
 * [- 音声合成ビデオ教材の作成](extension/chilospeech.md)
 
+## 版管理
+
+* [- page1](ban-guan-li/page1.md)
+
 ## 6. その他 <a href="#other" id="other"></a>
 
 * [- FAQ](other/faq.md)
