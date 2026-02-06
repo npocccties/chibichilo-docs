@@ -14,7 +14,7 @@ description: トピックの解説を追加できます．
 
 ## 2．文字の書式について
 
-LTI-MCの解説欄は[GitHub Flavored Markdown](https://github.github.com/gfm/)に一部対応しています．\
+CHIBI-CHILOの解説欄は[GitHub Flavored Markdown](https://github.github.com/gfm/)に一部対応しています．\
 対応している書式は以下の通りです．
 
 | 書式          | 書き方                          | 記入例                                                       |

@@ -6,7 +6,7 @@ description: 完成したブックをリリースして，コースに配信し�
 
 ## 1．リリースとは
 
-LTI-MCの版管理機能により，作成者が意識的に **「リリース」** した版をバージョン管理できます。
+CHIBI-CHILOの版管理機能により，作成者が意識的に **「リリース」** した版をバージョン管理できます。
 
 これにより，以下のようなことが行えます。
 
@@ -87,11 +87,11 @@ LTI-MCの版管理機能により，作成者が意識的に **「リリース�
 
 ## 5．ブックの配信確認
 
-以上で，ビデオ教材の配信設定は終了です．以下の2通りの方法で，LTI-MCが配信されていることを確認できます．
+以上で，ビデオ教材の配信設定は終了です．以下の2通りの方法で，CHIBI-CHILOが配信されていることを確認できます．
 
 ### （1）LMSから確認
 
-LTI-MCの画面を閉じて，LMS(Moodle）の画面に戻り，設定した外部ツールをクリックすると，設定したビデオが配信されていることを確認できます．
+CHIBI-CHILOの画面を閉じて，LMS(Moodle）の画面に戻り，設定した外部ツールをクリックすると，設定したビデオが配信されていることを確認できます．
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
@@ -99,9 +99,9 @@ LTI-MCの画面を閉じて，LMS(Moodle）の画面に戻り，設定した外�
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-### （2）LTI-MCのナビゲーションメニューから確認
+### （2）CHIBI-CHILOのナビゲーションメニューから確認
 
-LTI-MC上部のナビゲーションメニューの「配信中のブック」をクリックすると，現在配信されているLTI-MCの閲覧画面を開くことができます．
+CHIBI-CHILO上部のナビゲーションメニューの「配信中のブック」をクリックすると，現在配信されているCHIBI-CHILOの閲覧画面を開くことができます．
 
 <figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 

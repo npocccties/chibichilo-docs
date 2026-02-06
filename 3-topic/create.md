@@ -1,10 +1,10 @@
 ---
-description: LTI-MCで使用するトピック機能の作成方法や設定について解説しています．
+description: CHIBI-CHILOで使用するトピック機能の作成方法や設定について解説しています．
 ---
 
 # - トピック作成の基本
 
-LTI-MCへのアクセス方法は以下をご確認下さい．
+CHIBI-CHILOへのアクセス方法は以下をご確認下さい．
 
 {% content-ref url="../1-lti-mc/access.md" %}
 [access.md](../1-lti-mc/access.md)
@@ -24,7 +24,7 @@ LTI-MCへのアクセス方法は以下をご確認下さい．
 
 ### （2）トピック一覧画面から「+トピックの作成」をクリック
 
-LTI-MCのグローバルメニューの「トピック」をクリックしてトピック一覧画面を表示し，「+トピックの作成」をクリックします．
+CHIBI-CHILOのグローバルメニューの「トピック」をクリックしてトピック一覧画面を表示し，「+トピックの作成」をクリックします．
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,9 +44,9 @@ LTI-MCのグローバルメニューの「トピック」をクリックして�
 
 ### ❷ （必須）動画のURLの入力
 
-あらかじめ，動画配信サービスに登録した動画のURLを入力して下さい． 動画配信サービスは，YouTube,Vimeo,Wowzaに対応していますが，ご利用のLTI-MCがどの動画配信サービスをサポートしているかは，管理者にご確認下さい．
+あらかじめ，動画配信サービスに登録した動画のURLを入力して下さい． 動画配信サービスは，YouTube,Vimeo,Wowzaに対応していますが，ご利用のCHIBI-CHILOがどの動画配信サービスをサポートしているかは，管理者にご確認下さい．
 
-なお，Wowza対応のLTI-MCのみ，トピックの編集画面で，動画ファイルのアップロードが行なえます．詳しくは以下をご覧ください．
+なお，Wowza対応のCHIBI-CHILOのみ，トピックの編集画面で，動画ファイルのアップロードが行なえます．詳しくは以下をご覧ください．
 
 {% content-ref url="../5-extensions/file-upload.md" %}
 [file-upload.md](../5-extensions/file-upload.md)

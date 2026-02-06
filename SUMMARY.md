@@ -1,11 +1,11 @@
 # Table of contents
 
-* [LTI-MCマニュアル (版管理対応版)](README.md)
+* [CHiBi-CHiLOマニュアル (版管理対応版)](README.md)
 
-## 1. LTI-MCの基本
+## 1. CHiBi-CHiLOの基本
 
-* [- LTI-MCのコンテンツ](1-lti-mc/contents.md)
-* [- LTI-MCへのアクセス](1-lti-mc/access.md)
+* [- CHiBi-CHiLOのコンテンツ](1-lti-mc/contents.md)
+* [- CHiBi-CHiLOへのアクセス](1-lti-mc/access.md)
 
 ## 2. ブック作成 <a href="#id-2-book" id="id-2-book"></a>
 
@@ -49,5 +49,5 @@
 ## 6. その他 <a href="#id-6-others" id="id-6-others"></a>
 
 * [- FAQ](6-others/faq.md)
-* [- LTI-MCの動作環境](6-others/system-requirements.md)
+* [- CHiBi-CHiLOの動作環境](6-others/system-requirements.md)
 * [- 追記](6-others/addendum.md)

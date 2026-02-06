@@ -10,7 +10,7 @@ description: YouTubeかWowzaの動画の場合，字幕を追加できます．
 
 字幕はトピックの動画がYouTube，Wowzaである場合のみ追加できます．
 
-Vimeoの場合，LTI-MCから字幕を追加することはできませんので，Vimeoの画面で字幕を追加してください．
+Vimeoの場合，CHIBI-CHILOから字幕を追加することはできませんので，Vimeoの画面で字幕を追加してください．
 
 * [キャプションと字幕 – ヘルプセンター - Vimeo](https://vimeo.zendesk.com/hc/ja/articles/224968828-%E3%82%AD%E3%83%A3%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E5%AD%97%E5%B9%95)
 

@@ -1,11 +1,11 @@
 ---
-description: Wowza対応のLTI-MCは，トピックの作成・編集画面から，動画をアップロードすることができます．
+description: Wowza対応のCHIBI-CHILOは，トピックの作成・編集画面から，動画をアップロードすることができます．
 ---
 
 # - 動画のファイルアップロード
 
 {% hint style="info" %}
-以下の手順はWowza対応のLTI-MCでのみ行なえます．
+以下の手順はWowza対応のCHIBI-CHILOでのみ行なえます．
 {% endhint %}
 
 {% hint style="warning" %}
