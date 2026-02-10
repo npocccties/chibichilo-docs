@@ -4,8 +4,8 @@
 
 ## 1. CHiBi-CHiLOの基本
 
-* [- CHiBi-CHiLOのコンテンツ](1-lti-mc/contents.md)
-* [- CHiBi-CHiLOへのアクセス](1-lti-mc/access.md)
+* [- CHiBi-CHiLOのコンテンツ](1-chibi-chilo/contents.md)
+* [- CHiBi-CHiLOへのアクセス](1-chibi-chilo/access.md)
 
 ## 2. ブック作成 <a href="#id-2-book" id="id-2-book"></a>
 
@@ -44,7 +44,7 @@
 
 * [- 動画のファイルアップロード](5-extensions/file-upload.md)
 * [- Zoom動画の取り込み](5-extensions/zoom.md)
-* [- 音声合成ビデオ教材の作成](5-extensions/ptm.md)
+* [- 音声合成ビデオ教材の作成](5-extensions/chilospeech.md)
 
 ## 6. その他 <a href="#id-6-others" id="id-6-others"></a>
 
