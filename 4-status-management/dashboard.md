@@ -19,7 +19,7 @@ description: 学習分析の機能についてご紹介します．
 {% hint style="warning" %}
 CHIBI-CHILOの学習時間を正しく設定していない場合，意図しない挙動となる可能性があります．CHiLO-Speechを使った教材作成等で，一括登録でCHIBI-CHILOを登録した場合は，予め，学習時間の設定を行ってください．
 
-[学習時間の設定 - CHiLO-Speechマニュアル](https://nii-rcos.gitbook.io/ptm-help)
+[学習時間の設定 - CHiLO-Speechマニュアル](https://docs.cccties.org/chilospeech/)
 {% endhint %}
 
 ### 学習分析画面の開き方
