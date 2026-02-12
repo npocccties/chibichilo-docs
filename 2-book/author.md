@@ -36,7 +36,7 @@ CHIBI-CHILOでは，作成したユーザーに加えて，任意のユーザー
 LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映されませんので，設定したい教員のユーザーが表示されない場合は，そのユーザーでCHIBI-CHILOにアクセスしてください．
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-author_01.png" alt=""></figure>
 
 #### ❷ 表示（作成者・共同作成者・協力者）の選択
 
