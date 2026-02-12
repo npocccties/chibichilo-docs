@@ -4,7 +4,7 @@
 
 CHIBI-CHILOは「トピック」「ブック」「コース」の3階層でビデオ教材を管理しています．
 
-![](<../.gitbook/assets/image (411)-2.png>)
+![](<../.gitbook/assets/image (411).png>)
 
 ### コース
 
