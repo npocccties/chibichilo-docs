@@ -86,4 +86,4 @@ LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映
 
 設定した作成者は，ブック閲覧画面の上部にある，「著作権者」から確認できます．
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-author_04.png" alt=""></figure>
