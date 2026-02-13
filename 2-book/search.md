@@ -10,13 +10,13 @@ CHIBI-CHILOのグローバルメニューの「ブック」をクリックして
 
 検索条件（すべて・解説・タイトル・作成者・キーワード）を指定することもできます．
 
-<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-search_01.png" alt=""></figure>
 
 ## 2．ブック絞り込み
 
 条件を指定して，検索結果の絞り込みが可能です．
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-search_02.png" alt=""></figure>
 
 ### 編集中・リリース・リリース（共有）
 
@@ -40,4 +40,4 @@ CHIBI-CHILOのグローバルメニューの「ブック」をクリックして
 
 ブックにキーワードが指定されている場合は，キーワードラベルをクリックすると，特定のキーワードを絞り込む事ができます． 絞り込みに表示されたキーワードラベルをｘで削除すると，絞り込みを解除できます．
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-search_03.png" alt=""></figure>
