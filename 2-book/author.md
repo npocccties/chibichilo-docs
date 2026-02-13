@@ -42,7 +42,7 @@ LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映
 
 作成者のリストボックスをクリックすると，表示（作成者・共同作成者・協力者）を選択可能です． 機能や権限に違いはないため，お好みで設定してください．
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-author_02.png" alt=""></figure>
 
 ### 作成者設定の削除
 
@@ -60,7 +60,7 @@ LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映
 
 設定した作成者は，ブック閲覧画面の上部にある，「作成者」から確認できます．
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-author_04.png" alt=""><figcaption></figcaption></figure>
 
 ## 3．著作権者の設定
 
