@@ -27,7 +27,7 @@ CHIBI-CHILOのグローバルメニューの「ブック」をクリックして
 
 ブック作成画面が表示されますので，必要項目を入力します．入力項目の詳細は以下の表をご確認下さい．
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-create_02.png" alt=""></figure>
 
 #### 入力項目の詳細
 
@@ -44,7 +44,7 @@ CHIBI-CHILOのグローバルメニューの「ブック」をクリックして
 
 ❷の項目の入力後，「作成」をクリックすると，ブック編集画面が表示されます．
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-create_03.png" alt=""></figure>
 
 ## 2．トピックの追加
 
@@ -56,7 +56,7 @@ CHIBI-CHILOのグローバルメニューの「ブック」をクリックして
 [create.md](../3-topic/create.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-create_04.png" alt=""></figure>
 
 ### ❷ 残りのトピックを作成
 
@@ -68,11 +68,11 @@ CHIBI-CHILOのグローバルメニューの「ブック」をクリックして
 
 「トピック順の編集」をクリックすると，トピック順編集モードに切り替わります．
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-create_11.png" alt=""></figure>
 
 操作が終わったら，「保存」をクリックします．なお，編集前にリセットをクリックすると，変更前の状態に戻ります．
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-create_12.png" alt=""></figure>
 
 トピックの並べ替え・グループ化・除外の操作は以下のように行います．
 
@@ -80,19 +80,19 @@ CHIBI-CHILOのグローバルメニューの「ブック」をクリックして
 
 トピックタイトルの左端にあるアイコン<img src="../.gitbook/assets/6dot.png" alt="" data-size="line">をドラッグ・アンド・ドロップすることで，トピックの順番を並べ替えられます．
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-create_13.png" alt=""></figure>
 
 #### トピックのグループ化（セクションの追加）
 
 トピック編集モードの状態で，ピックタイトルの左から2番目のアイコン<img src="../.gitbook/assets/6dot.png" alt="" data-size="line">をつまんで，グループ化したいトピックに重ねると，トピックをグループ化することができます．「セクション」と表示される部分にグループ名（セクション名）を記載します．
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-create_14.png" alt=""></figure>
 
 #### ブックからトピックを取り除く
 
 トピック編集モードの状態で，トピックタイトルの右側の\[ー]をクリックすると，トピックをブックから取り除けます．
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-create_15.png" alt=""></figure>
 
 なお，ここでトピックを取り除いても，ブックから外されるだけで，トピック本体が削除されるわけではありません．トピック本体を削除する場合は，以下をご確認下さい．
 
