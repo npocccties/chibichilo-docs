@@ -20,7 +20,7 @@ CHIBI-CHILOの版管理機能により，作成者が意識的に **「リリー
 
 ❶完成したブックの編集画面でページ下部にある **「ブックをリリース」** を選択します。
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-release_01.png" alt=""></figure>
 
 ❷ブック「（ブック名）」をリリースします。よろしいですか？と表示されますので，「OK」をクリックします。
 
