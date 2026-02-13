@@ -17,7 +17,7 @@ CHIBI-CHILOへのアクセス方法は以下をご確認下さい．
 
 CHIBI-CHILOのグローバルメニューの「ブック」をクリックしてブック一覧画面を表示し，「+ブックの作成」をクリックします．
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-create_01.png" alt=""></figure>
 
 {% hint style="info" %}
 初めてブックを作成する時はブック画面には何も表示されていませんが，ブックを作成すると作成したブックが一覧に表示されます．
