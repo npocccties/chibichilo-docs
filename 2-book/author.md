@@ -66,7 +66,7 @@ LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映
 
 ❶ブック編集画面の「メタ情報」から，著作権者を入力します。
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-author_05.png" alt=""></figure>
 
 ❷メタ情報下部の「更新」をクリックすると，著作権者が反映されます。
 
@@ -76,7 +76,7 @@ LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映
 
 ❶ブック編集画面の「メタ情報」から，著作権者の入力を削除すると，著作権者が削除されます。
 
-<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-author_06.png" alt=""></figure>
 
 ❷メタ情報下部の「更新」をクリックすると，著作権者が反映されます。
 
