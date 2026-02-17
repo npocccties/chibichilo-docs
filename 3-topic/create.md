@@ -20,13 +20,13 @@ CHIBI-CHILOへのアクセス方法は以下をご確認下さい．
 [create.md](../2-book/create.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-create_01.png" alt=""><figcaption></figcaption></figure>
 
 ### （2）トピック一覧画面から「+トピックの作成」をクリック
 
 CHIBI-CHILOのグローバルメニューの「トピック」をクリックしてトピック一覧画面を表示し，「+トピックの作成」をクリックします．
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-create_02.png" alt=""><figcaption></figcaption></figure>
 
 トピック一覧画面から作成したトピックは，ブック編集画面の「トピックの再利用」でブックに追加することができます．詳しくは以下をご覧ください．
 
@@ -36,7 +36,7 @@ CHIBI-CHILOのグローバルメニューの「トピック」をクリックし
 
 ## 2．トピックの情報の入力
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-create_03.png" alt=""><figcaption></figcaption></figure>
 
 ### ❶ （必須）タイトルの入力
 
@@ -89,7 +89,7 @@ CHIBI-CHILOのグローバルメニューの「トピック」をクリックし
 
 項目の入力後，「作成」をクリックします．ブック作成・編集画面からトピックを追加した場合は，トピック追加エリアに作成したトピックが追加されていることを確認できます．
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-create_04.png" alt=""><figcaption></figcaption></figure>
 
 ### ❼ 残りのトピックを作成
 
@@ -99,7 +99,7 @@ CHIBI-CHILOのグローバルメニューの「トピック」をクリックし
 
 ブックの作成・編集画面からトピックを作成した場合は，トピックタイトル右側のえんぴつアイコンをクリックすると，トピックを編集できます．
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-create_05.png" alt=""><figcaption></figcaption></figure>
 
 トピック一覧画面からトピックを作成した場合は，表示されているトピックのえんぴつアイコンをクリックすると，トピックを編集できます．
 
@@ -115,7 +115,7 @@ CHIBI-CHILOのグローバルメニューの「トピック」をクリックし
 
 トピックの編集画面で，以下のメタ情報を追加できます。
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-create_07.png" alt=""><figcaption></figcaption></figure>
 
 | 項目       | 内容                                                 |
 | -------- | -------------------------------------------------- |
