@@ -66,7 +66,9 @@ LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映
 
 ❶ブック編集画面の「メタ情報」から，著作権者を入力します。
 
-<figure><img src="../.gitbook/assets/book-author_05.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/book-author_05.png" alt=""><figcaption></figcaption></figure>
+あ
+<figure><img src="../.gitbook/assets/book_author_05.png" alt=""><figcaption></figcaption></figure>
 
 ❷メタ情報下部の「更新」をクリックすると，著作権者が反映されます。
 
