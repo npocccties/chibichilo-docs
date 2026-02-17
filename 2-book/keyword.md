@@ -24,7 +24,7 @@ description: 検索や絞り込みに使用するキーワードを設定出来�
 
 ❶ブックの作成・編集画面で，キーワードの入力欄に文字を入力して＋で追加します．
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-keyword_01.png" alt=""><figcaption></figcaption></figure>
 
 ❷入力したキーワード削除する場合は，キーワードの横にある×ボタンをクリックします．
 
