@@ -8,13 +8,13 @@ description: ブックの内容を説明する解説を追加できます．
 
 ❶ブックの作成または編集画面で，「詳細を設定する」をクリックします．
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-commentary_01.png" alt=""><figcaption></figcaption></figure>
 
 ❷解説の入力欄に，ブックの解説文を入力します．リンクや文字の装飾等については，「[文字の書式について](commentary.md#id-2nonitsuite)」もご参照ください．
 
 ❸画面下部の「作成」または「更新」をクリックします．
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-commentary_02.png" alt=""><figcaption></figcaption></figure>
 
 ## 2．文字の書式について
 
@@ -41,4 +41,4 @@ CHIBI-CHILOの解説欄は「[GitHub Flavored Markdown](https://github.github.co
 
 ブックの解説の入力内容は，ブック閲覧画面の，「ブックの詳細」を開くことで確認できます．
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/book-commentary_03.png" alt=""><figcaption></figcaption></figure>
