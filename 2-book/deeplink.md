@@ -11,17 +11,17 @@ description: >-
 
 活動またはリソースの一覧から「マイクロコンテンツ」をクリックします．
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2025-12-05 200533.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/deeplink_01.png" alt=""><figcaption></figcaption></figure>
 
 ## ❷「コンテンツを選択する」でブックを選択
 
 「新しい外部ツール」の設定画面で「活動名」を入力し，「コンテンツを選択する」をクリックして，ブック一覧から，登録したいブックの配信ボタンをクリックします．
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2025-12-05 200415.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/deeplink_02.png" alt=""><figcaption></figcaption></figure>
 
 ## ❸保存してコースに戻る
 
 配信ボタンをクリックすると，「新しい外部ツール」の設定画面に戻ります．「保存してコースに戻る」でコースに戻ります．
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2025-12-05 200440.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/deeplink_03.png" alt=""><figcaption></figcaption></figure>
 
