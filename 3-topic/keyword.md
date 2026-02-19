@@ -24,12 +24,12 @@ description: 検索や絞り込みに使用するキーワードを設定出来�
 
 ❶トピックの作成・編集画面で，キーワードの入力欄に文字を入力して＋で追加します．
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-keyword_01.png" alt=""><figcaption></figcaption></figure>
 
 ❷入力したキーワード削除する場合は，キーワードの横にある×ボタンをクリックします．
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-keyword_02.png" alt=""><figcaption></figcaption></figure>
 
 ❸作成または更新をクリックします．
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-keyword_03.png" alt=""><figcaption></figcaption></figure>
