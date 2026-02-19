@@ -10,13 +10,13 @@ CHIBI-CHILOのグローバルメニューの「トピック」をクリックし
 
 検索条件（すべて・解説・タイトル・作成者・キーワード）を指定することもできます．
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-search_01.png" alt=""><figcaption></figcaption></figure>
 
 ## 2．絞り込み
 
 条件を指定して，検索結果の絞り込みが可能です．
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-search_02.png" alt=""><figcaption></figcaption></figure>
 
 ### 編集中・リリース・リリース（共有）
 
@@ -36,10 +36,10 @@ CCのライセンス設定から絞り込みが可能です．ライセンスの
 
 トピックの **「ブック」** ラベルをクリックすると，特定のブックで利用されているトピックだけを絞り込む事ができます． 絞り込みに表示されたブック名のラベルをｘで削除すると，絞り込みを解除できます．
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-search_03.png" alt=""><figcaption></figcaption></figure>
 
 ### キーワード
 
 トピックにキーワードが指定されている場合は，キーワードラベルをクリックすると，特定のキーワードを絞り込む事ができます． 絞り込みに表示されたキーワードラベルをｘで削除すると，絞り込みを解除できます．
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-search_04.png" alt=""><figcaption></figcaption></figure>
