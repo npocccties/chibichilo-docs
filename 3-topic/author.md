@@ -34,11 +34,11 @@ CHIBI-CHILOでは，作成したユーザーに加えて，任意のユーザー
 LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映されませんので，設定したい教員のユーザーが表示されない場合は，そのユーザーでCHIBI-CHILOにアクセスしてください．
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-author_01.png" alt=""><figcaption></figcaption></figure>
 
 ❷作成者のリストボックスをクリックすると，表示（作成者・共同作成者・協力者）を選択可能です． 機能や権限に違いはないため，お好みで設定してください．
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-author_02.png" alt=""><figcaption></figcaption></figure>
 
 ### 作成者設定の削除
 
@@ -50,36 +50,36 @@ LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映
 ブックを最初に作成したユーザーは，作成者の一覧から削除できません． 「作成者」とは別の教材作成支援者がブックの作成を代行した場合は，「協力者」に設定すると，ブック閲覧画面で，作成者の後に名前が表示されます．
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-author_03.png" alt=""><figcaption></figcaption></figure>
 
 ### 作成者設定の確認
 
 設定した作成者は，ブック閲覧画面の，トピックタイトル下にある「作成者」で確認できます．
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-author_04.png" alt=""><figcaption></figcaption></figure>
 
 ## 3．著作権者の設定
 
 ❶トピック編集画面の「メタ情報」から，著作権者を入力します。
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-author_05.png" alt=""><figcaption></figcaption></figure>
 
 ❷メタ情報下部の「更新」をクリックすると，著作権者が反映されます。
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-author_06.png" alt=""><figcaption></figcaption></figure>
 
 ### 著作権者設定の削除
 
 ❶トピック編集画面の「メタ情報」から，著作権者の入力を削除すると，著作権者が削除されます。
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-author_07.png" alt=""><figcaption></figcaption></figure>
 
 ❷メタ情報下部の「更新」をクリックすると，著作権者が反映されます。
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-author_08.png" alt=""><figcaption></figcaption></figure>
 
 ### 作成者設定の確認
 
 設定した作成者は，ブック閲覧画面の上部にある，「著作権者」から確認できます．
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-author_09.png" alt=""><figcaption></figcaption></figure>
