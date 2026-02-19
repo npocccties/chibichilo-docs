@@ -8,13 +8,13 @@ description: トピックの作成・編集時に登録した動画の再生開�
 
 トピックの作成（編集）画面にて，動画のプレビュー画面の下の，「>動画を編集する」をクリックすると，動画のトリミング（前後カット）用のボタンと入力欄が表示されます．
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-trim_01.png" alt=""><figcaption></figcaption></figure>
 
 ## 2．各ボタンの機能について
 
 ボタン入力欄の機能は以下のとおりです．
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-trim_02.png" alt=""><figcaption></figcaption></figure>
 
 | ボタン        | 説明                                                                              |
 | ---------- | ------------------------------------------------------------------------------- |
@@ -32,15 +32,15 @@ description: トピックの作成・編集時に登録した動画の再生開�
 
 クリックすると，ボタン下の入力欄に，再生開始時間（秒）が表示されます．
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-trim_03.png" alt=""><figcaption></figcaption></figure>
 
 設定した再生開始位置を確認するには，「❷再生開始位置に移動」→「❸再生」の順番でボタンをクリックします．
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-trim_04.png" alt=""><figcaption></figcaption></figure>
 
 調整したい場合は，再度動画を再生しなおして「❶再生開始位置の設定」をクリックするか，ボタン下の入力欄の，再生開始時間（秒）を直接入力で入力して調整します．
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-trim_05.png" alt=""><figcaption></figcaption></figure>
 
 ### （2）再生終了位置の設定
 
@@ -48,12 +48,12 @@ description: トピックの作成・編集時に登録した動画の再生開�
 
 クリックすると，ボタン下の入力欄に，再生終了時間（秒）が表示されます．
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-trim_06.png" alt=""><figcaption></figcaption></figure>
 
 設定した再生終了位置を確認するには，「❹再生終了位置に移動」→「❸再生」の順番でボタンをクリックします．
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-trim_07.png" alt=""><figcaption></figcaption></figure>
 
 調整したい場合は，再度動画を再生しなおして「❺再生終了位置の設定」を押すか，ボタン下の入力欄の，再生終了時間（秒）を直接入力で入力して調整します．
 
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-trim_08.png" alt=""><figcaption></figcaption></figure>
