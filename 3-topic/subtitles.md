@@ -50,7 +50,7 @@ WEBVTT
 
 ❸字幕のアップロード画面が開くので，ファイルと言語を選択し， **\[アップロード]** をクリックします．
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-subtitles_01.png" alt=""><figcaption></figcaption></figure>
 
 ❹画面下部の「作成」または「保存」をクリックします．
 
@@ -58,14 +58,14 @@ WEBVTT
 
 字幕の下に，追加した字幕言語が表示されます．右側の×をクリックすると，字幕が削除されます．
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-subtitles_02.png" alt=""><figcaption></figcaption></figure>
 
 ## 4．字幕を確認する
 
 ❶ブックの作成・編集画面，またはトピック一覧画面からトピックをプレビューします．
 
-<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-subtitles_03.png" alt=""><figcaption></figcaption></figure>
 
 ❷表示される動画の右下に字幕アイコンが表示されますので，クリックして，追加した字幕の言語を選択すると，字幕が表示されます．
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-subtitles_04.png" alt=""><figcaption></figcaption></figure>
