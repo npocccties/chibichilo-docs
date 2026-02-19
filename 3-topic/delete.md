@@ -24,7 +24,7 @@ description: トピックの削除の方法を紹介します．
 
 ブックの編集画面で，トピックタイトル横のえんぴつアイコン<img src="../.gitbook/assets/pencil.png" alt="" data-size="line">をクリックし，画面下部の「トピックを削除」をクリックします．確認画面が表示されますので，OKをクリックします．
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-delete_02.png" alt=""><figcaption></figcaption></figure>
 
 ブックの編集画面に戻ります．削除するトピックが残っている場合は，同じ作業を繰り返します．
 
@@ -38,7 +38,7 @@ description: トピックの削除の方法を紹介します．
 
 トピック一覧で削除したいトピックのチェックボックスを選択し， **「削除」** をクリックします（複数選択可）．
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-delete_01.png" alt=""><figcaption></figcaption></figure>
 
 ### ❸ 確認
 
@@ -46,4 +46,4 @@ description: トピックの削除の方法を紹介します．
 
 トピックが完全に削除されます．
 
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/topic-delete_03.png" alt=""><figcaption></figcaption></figure>
