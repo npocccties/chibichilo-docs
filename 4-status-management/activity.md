@@ -11,7 +11,7 @@ description: >-
 
 CHIBI-CHILOでは，学習者の視聴状況を管理しており，ブック内のトピックを最後まで視聴すると，学習者の画面では完了マークがつきます．
 
-![](../.gitbook/assets/dashboard_01.png)
+![](../.gitbook/assets/analytics-activity_01.png)
 
 この視聴状況の情報はLMSにフィードバックされます．
 
