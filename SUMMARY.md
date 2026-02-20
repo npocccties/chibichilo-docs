@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CHiBi-CHiLOマニュアル (目次)](README.md)
+* [CHiBi-CHiLOマニュアル](README.md)
 
 ## 1. CHiBi-CHiLOの基本
 

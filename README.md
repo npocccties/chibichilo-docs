@@ -2,7 +2,7 @@
 description: CHiBi-CHiLOでコンテンツを作成される方向けのユーザーマニュアルです．以下から必要な項目を選択してご覧ください．
 ---
 
-# CHiBi-CHiLOマニュアル (版管理対応版)
+# CHiBi-CHiLOマニュアル
 
 ### [1.CHiBi-CHiLOの基本](1-chibi-chilo/contents.md)
 
