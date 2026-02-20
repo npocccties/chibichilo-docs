@@ -4,8 +4,6 @@ description: CHiBi-CHiLOでコンテンツを作成される方向けのユー�
 
 # CHiBi-CHiLOマニュアル (版管理対応版)
 
-**※本サイトの内容は今年3月のものです。学認LMSのMoodle 4.5系対応による コンテンツ登録手順の変更が含まれていません（修正中）**
-
 ### [1.CHiBi-CHiLOの基本](1-chibi-chilo/contents.md)
 
 CHiBi-CHiLOの構造や，Moodleからのアクセス方法について解説しています．
