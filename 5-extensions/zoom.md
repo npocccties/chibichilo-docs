@@ -22,13 +22,13 @@ Zoomを使用したメールアドレスを使用しているアカウントでL
 
 ZoomとCHIBI-CHILOを連携した後の初回起動時に，zoomインポート機能の設定を確認されます．2回目以降は画面上部の「設定」をクリックしてインポート設定をおこないます．
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/zoom_01.png" alt=""><figcaption></figcaption></figure>
 
 ### ❸ インポートを有効にする
 
 「Zoomクラウドレコーディングのインポート」を有効にします．
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/zoom_02.png" alt=""><figcaption></figcaption></figure>
 
 ## （2）Zoomで録画
 
@@ -42,7 +42,7 @@ Zoomでクラウドレコーディングをします．
 
 インポートを有効にした状態でクラウドレコーディングをおこなうと，CHIBI-CHILOにブックとトピックが生成され，トピックに録画した動画が登録されます． 動画の登録は一定の間隔でおこなわれるため，すぐには反映されない場合があります．（登録の間隔が知りたい場合は管理者に設定をご確認ください．）
 
-![](../.gitbook/assets/zoom_05.png)
+![](../.gitbook/assets/zoom_03.png)
 
 ## 補足：インポートしたブックとトピックについて
 
