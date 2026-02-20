@@ -28,9 +28,9 @@ CHiBi-CHiLOに直接ログインしたり，編集権限のないコースから
 
 ![](<../.gitbook/assets/chibichilo-access_01.png>)
 
-### ❺ 「マイクロコンテンツ」の設定
+### ❺ 「CHiBi-CHiLO」の設定
 
-**「マイクロコンテンツ」** をクリックした場合は， **「活動名」** を設定します．\
+**「CHiBi-CHiLO」** をクリックした場合は， **「活動名」** を設定します．\
 **「活動名」** はMoodleに表示されるリソースの名前です．
 
 ![](<../.gitbook/assets/chibichilo-access_02.png>)
@@ -41,7 +41,7 @@ CHiBi-CHiLOに直接ログインしたり，編集権限のないコースから
 
 ### ❼ CHiBi-CHiLOの編集画面の表示
 
-コースに❺で設定した **「活動名」** でマイクロコンテンツが追加されます．クリックすると，CHiBi-CHiLOの編集画面が表示されます．
+コースに❺で設定した **「活動名」** でCHiBi-CHiLOが追加されます．クリックすると，CHiBi-CHiLOの編集画面が表示されます．
 
 ![](<../.gitbook/assets/chibichilo-access_04.png>)
 
