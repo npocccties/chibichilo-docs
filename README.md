@@ -6,7 +6,7 @@ description: CHiBi-CHiLOでコンテンツを作成される方向けのユー�
 
 ### [1.CHiBi-CHiLOの基本](1-chibi-chilo/contents.md)
 
-CHiBi-CHiLOの構造や，版管理機能，Moodleからのアクセス方法について解説しています．
+CHiBi-CHiLOの構造や版管理機能，Moodleからのアクセス方法について解説しています．
 
 ### [2.ブック作成](2-book/create.md)
 
