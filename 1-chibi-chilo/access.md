@@ -4,8 +4,6 @@ description: ここではMoodleからCHiBi-CHiLOを利用する方法を説明�
 
 # - CHiBi-CHiLOへのアクセス
 
-**※学認LMSのMoodle 4.5系対応による コンテンツ登録手順の変更をうけて記載を修正しました。**
-
 CHiBi-CHiLOの編集画面にアクセスするには，まずLMS（Moodle）にログインし，編集権限があるコースに移動して，マイクロコンテンツを追加する必要があります．
 
 {% hint style="info" %}

@@ -1,11 +1,11 @@
 # Table of contents
 
-* [CHiBi-CHiLOマニュアル (版管理対応版)](README.md)
-* [CHiBi-CHiLOマニュアル (目次)](contents.md)
+* [CHiBi-CHiLOマニュアル (目次)](README.md)
 
 ## 1. CHiBi-CHiLOの基本
 
 * [- CHiBi-CHiLOのコンテンツ](1-chibi-chilo/contents.md)
+* [- CHiBi-CHiLOの版管理機能](version-management.md)
 * [- CHiBi-CHiLOへのアクセス](1-chibi-chilo/access.md)
 
 ## 2. ブック作成 <a href="#id-2-book" id="id-2-book"></a>
