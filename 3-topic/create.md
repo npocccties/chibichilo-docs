@@ -6,8 +6,8 @@ description: CHIBI-CHILOで使用するトピック機能の作成方法や設�
 
 CHIBI-CHILOへのアクセス方法は以下をご確認下さい．
 
-{% content-ref url="../1-chibi-chilo/access.md" %}
-[access.md](../1-chibi-chilo/access.md)
+{% content-ref url="../chibi-chilo/access.md" %}
+[access.md](../chibi-chilo/access.md)
 {% endcontent-ref %}
 
 ## 1. トピックの作成方法
@@ -102,8 +102,6 @@ CHIBI-CHILOのグローバルメニューの「トピック」をクリックし
 <figure><img src="../.gitbook/assets/topic-create_05.png" alt=""><figcaption></figcaption></figure>
 
 トピック一覧画面からトピックを作成した場合は，表示されているトピックのえんぴつアイコンをクリックすると，トピックを編集できます．
-
-
 
 なお，編集したいトピックが見つからない場合は，以下をご覧ください．
 

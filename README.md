@@ -4,7 +4,7 @@ description: CHiBi-CHiLOでコンテンツを作成される方向けのユー�
 
 # CHiBi-CHiLOマニュアル
 
-### [1.CHiBi-CHiLOの基本](1-chibi-chilo/contents.md)
+### [1.CHiBi-CHiLOの基本](chibi-chilo/contents.md)
 
 CHiBi-CHiLOの構造や版管理機能，Moodleからのアクセス方法について解説しています．
 

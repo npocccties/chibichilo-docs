@@ -26,14 +26,14 @@ CHiBi-CHiLOに直接ログインしたり，編集権限のないコースから
 
 活動またはリソースの一覧から **「CHiBi-CHiLO」** をクリックします．
 
-![](<../.gitbook/assets/chibichilo-access_01.png>)
+![](../.gitbook/assets/chibichilo-access_01.png)
 
 ### ❺ 「CHiBi-CHiLO」の設定
 
 **「CHiBi-CHiLO」** をクリックした場合は， **「活動名」** を設定します．\
-**「活動名」** はMoodleに表示されるリソースの名前です．
+&#xNAN;**「活動名」** はMoodleに表示されるリソースの名前です．
 
-![](<../.gitbook/assets/chibichilo-access_02.png>)
+![](../.gitbook/assets/chibichilo-access_02.png)
 
 ### ❻ 保存してコースに戻る
 
@@ -43,5 +43,4 @@ CHiBi-CHiLOに直接ログインしたり，編集権限のないコースから
 
 コースに❺で設定した **「活動名」** でCHiBi-CHiLOが追加されます．クリックすると，CHiBi-CHiLOの編集画面が表示されます．
 
-![](<../.gitbook/assets/chibichilo-access_04.png>)
-
+![](../.gitbook/assets/chibichilo-access_04.png)
