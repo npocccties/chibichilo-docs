@@ -7,8 +7,8 @@ description: >-
 
 CHIBI-CHILOへのアクセス方法は以下をご確認下さい．
 
-{% content-ref url="../chibi-chilo/access.md" %}
-[access.md](../chibi-chilo/access.md)
+{% content-ref url="../1-chibi-chilo/access.md" %}
+[access.md](../1-chibi-chilo/access.md)
 {% endcontent-ref %}
 
 ## 1. ブックの作成

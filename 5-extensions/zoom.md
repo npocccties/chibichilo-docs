@@ -16,7 +16,7 @@ Zoomの動画をインポートするには，ZoomとLMSで同じメールアド
 
 ### ❶ CHIBI-CHILOにアクセス
 
-Zoomを使用したメールアドレスを使用しているアカウントでLMS（Moodle）にサインインし，CHIBI-CHILOにアクセスします．（[CHIBI-CHILOへのアクセス](../chibi-chilo/access.md) 参照）
+Zoomを使用したメールアドレスを使用しているアカウントでLMS（Moodle）にサインインし，CHIBI-CHILOにアクセスします．（[CHIBI-CHILOへのアクセス](../1-chibi-chilo/access.md) 参照）
 
 ### ❷ インポートの設定
 

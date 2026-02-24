@@ -6,8 +6,8 @@ description: CHIBI-CHILOで使用するトピック機能の作成方法や設�
 
 CHIBI-CHILOへのアクセス方法は以下をご確認下さい．
 
-{% content-ref url="../chibi-chilo/access.md" %}
-[access.md](../chibi-chilo/access.md)
+{% content-ref url="../1-chibi-chilo/access.md" %}
+[access.md](../1-chibi-chilo/access.md)
 {% endcontent-ref %}
 
 ## 1. トピックの作成方法

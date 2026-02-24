@@ -4,9 +4,9 @@
 
 ## 1. CHiBi-CHiLOの基本 <a href="#1-chibi-chilo" id="1-chibi-chilo"></a>
 
-* [- CHiBi-CHiLOのコンテンツ](chibi-chilo/contents.md)
-* [🆕 CHiBi-CHiLOの版管理機能](chibi-chilo/version-management.md)
-* [- CHiBi-CHiLOへのアクセス](chibi-chilo/access.md)
+* [- CHiBi-CHiLOのコンテンツ](1-chibi-chilo/contents.md)
+* [🆕 CHiBi-CHiLOの版管理機能](1-chibi-chilo/version-management.md)
+* [- CHiBi-CHiLOへのアクセス](1-chibi-chilo/access.md)
 
 ## 2. ブック作成 <a href="#2-book" id="2-book"></a>
 
