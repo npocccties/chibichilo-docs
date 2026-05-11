@@ -4,8 +4,6 @@ description: 本機能はzoom連携機能が設定されているCHIBI-CHILOだ�
 
 # - Zoom動画の取り込み
 
-**※学認LMS向けのLTII-MCでは、本機能は利用できません。**
-
 CHIBI-CHILOでインポートの設定をおこなったうえでZoom録画をおこなうと，CHIBI-CHILOに録画した動画が取り込まれ，ブックとトピックが作成されます．
 
 ## （1）事前設定
