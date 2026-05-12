@@ -46,7 +46,7 @@
 * [- 動画のファイルアップロード](5-extensions/file-upload.md)
 * [- Zoom動画の取り込み](5-extensions/zoom.md)
 * [- 音声合成ビデオ教材の作成](5-extensions/chilospeech.md)
-* [- CHiBi-CHiLO のトピック直接アクセス機能](5-extensions/topic-access.md)
+* [- トピック直接アクセス機能](5-extensions/topic-access.md)
 
 ## 6. その他 <a href="#6-others" id="6-others"></a>
 
