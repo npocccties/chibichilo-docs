@@ -11,11 +11,19 @@ description: >-
 
 <figure><img src="../.gitbook/assets/deeplink_01.png" alt=""><figcaption></figcaption></figure>
 
-## ❷「コンテンツを選択する」でブックを選択
+## ❷「コンテンツを選択する」
+
+### ◆ ブックを選択
 
 「新しい外部ツール」の設定画面で「活動名」を入力し，「コンテンツを選択する」をクリックして，ブック一覧から，登録したいブックの配信ボタンをクリックします．
 
 <figure><img src="../.gitbook/assets/deeplink_02.png" alt=""><figcaption></figcaption></figure>
+
+### ◆ トピックを選択
+
+「新しい外部ツール」の設定画面で「活動名」を入力し，「コンテンツを選択する」をクリックして，ブック一覧からブックを選択した後，登録したいトピックの配信ボタンをクリックします．
+
+<figure><img src="../.gitbook/assets/deeplink_04.png" alt=""><figcaption></figcaption></figure>
 
 ## ❸保存してコースに戻る
 
