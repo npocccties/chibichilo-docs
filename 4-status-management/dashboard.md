@@ -81,11 +81,11 @@ CHIBI-CHILOに一度もアクセスしていない学習者は，[受講者の�
 1. **[受講者の同期]** ボタンをクリックします．
 2. **「同期」** をクリックします．
 
-![](../.gitbook/assets/dashboard_07.png)
+![](../.gitbook/assets/dashboard_07-2.png)
 
 3. 受講者に関する情報が表示されます．
 
-![](../.gitbook/assets/dashboard_08.png)
+![](../.gitbook/assets/dashboard_08-2.png)
 
 ### 視聴分析対象の切り替え
 
