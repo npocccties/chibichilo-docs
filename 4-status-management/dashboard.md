@@ -26,7 +26,7 @@ CHIBI-CHILOの学習時間を正しく設定していない場合，意図しな
 2. 画面上部の「学習分析」を選択します．
 3. 学習分析の画面が表示されます．
 
-![](../.gitbook/assets/dashboard_02.png)
+![](../.gitbook/assets/dashboard_02-2.png)
 
 #### 「ブック」タブ
 
