@@ -55,7 +55,7 @@ CHIBI-CHILOに一度もアクセスしていない学習者は，[受講者の�
 CHIBI-CHILOに一度もアクセスしていない学習者は，[受講者の同期](dashboard.md#受講者の同期)をすると，\[名前未公開]として表示されます．
 {% endhint %}
 
-![](../.gitbook/assets/dashboard_04.png)
+![](../.gitbook/assets/dashboard_04-2.png)
 
 ### 受講者の同期
 
