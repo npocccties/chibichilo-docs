@@ -49,7 +49,7 @@
 
 ## 6. 学生向け <a href="#students" id="students"></a>
 
-* [- FAQ](students/faq.md)
+* [- 学習者の操作方法](students/operation.md)
 
 ## 7. その他 <a href="#others" id="others"></a>
 
