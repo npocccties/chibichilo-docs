@@ -8,8 +8,8 @@ description: トピックの削除の方法を紹介します．
 ブックと，ブック内のトピックをすべて削除したい場合は，以下ページの，「ブック/トピックを削除」を行ってください。
 {% endhint %}
 
-{% content-ref url="../2-book/delete.md" %}
-[delete.md](../2-book/delete.md)
+{% content-ref url="../book/delete.md" %}
+[delete.md](../book/delete.md)
 {% endcontent-ref %}
 
 ## （1）ブックの編集画面からトピックを削除

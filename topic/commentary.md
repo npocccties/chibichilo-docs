@@ -29,8 +29,8 @@ CHIBI-CHILOの解説欄は[GitHub Flavored Markdown](https://github.github.com/g
 
 なお，この書式はブックの解説にも利用することができます．
 
-{% content-ref url="../2-book/commentary.md" %}
-[commentary.md](../2-book/commentary.md)
+{% content-ref url="../book/commentary.md" %}
+[commentary.md](../book/commentary.md)
 {% endcontent-ref %}
 
 ## 3．解説の入力内容の確認

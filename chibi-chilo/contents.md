@@ -1,4 +1,4 @@
-# - CHIBI-CHILOのコンテンツ
+# - CHiBi-CHiLOのコンテンツ
 
 ## 各コンテンツについて
 
@@ -22,8 +22,8 @@ Moodleからのアクセス方法は以下をご参照ください．
 
 ブックの作成方法は，以下をご参照ください．
 
-{% content-ref url="../2-book/create.md" %}
-[create.md](../2-book/create.md)
+{% content-ref url="../book/create.md" %}
+[create.md](../book/create.md)
 {% endcontent-ref %}
 
 ### トピック
@@ -32,8 +32,8 @@ YouTube，Vimeo，Wowza等のビデオ配信サービスで配信されている
 
 トピックの作成方法は，以下をご参照ください．
 
-{% content-ref url="../3-topic/create.md" %}
-[create.md](../3-topic/create.md)
+{% content-ref url="../topic/create.md" %}
+[create.md](../topic/create.md)
 {% endcontent-ref %}
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>

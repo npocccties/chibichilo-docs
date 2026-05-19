@@ -18,8 +18,8 @@ CHIBI-CHILOでは，作成したユーザーに加えて，任意のユーザー
 
 なお，トピックでも作成者・著作権者の追加を行いたい場合は，以下を参照してください．
 
-{% content-ref url="../3-topic/author.md" %}
-[author.md](../3-topic/author.md)
+{% content-ref url="../topic/author.md" %}
+[author.md](../topic/author.md)
 {% endcontent-ref %}
 
 以下は，ブックの作成者・著作権者の設定方法について説明します．
@@ -36,13 +36,13 @@ CHIBI-CHILOでは，作成したユーザーに加えて，任意のユーザー
 LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映されませんので，設定したい教員のユーザーが表示されない場合は，そのユーザーでCHIBI-CHILOにアクセスしてください．
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/book-author_01.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/book-author_01.png" alt=""><figcaption></figcaption></figure>
 
 #### ❷ 表示（作成者・共同作成者・協力者）の選択
 
 作成者のリストボックスをクリックすると，表示（作成者・共同作成者・協力者）を選択可能です． 機能や権限に違いはないため，お好みで設定してください．
 
-<figure><img src="../.gitbook/assets/book-author_02.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/book-author_02.png" alt=""><figcaption></figcaption></figure>
 
 ### 作成者設定の削除
 
@@ -76,7 +76,7 @@ LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映
 
 ❶ブック編集画面の「メタ情報」から，著作権者の入力を削除すると，著作権者が削除されます。
 
-<figure><img src="../.gitbook/assets/book-author_06.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/book_ahthor_06.png" alt=""><figcaption></figcaption></figure>
 
 ❷メタ情報下部の「更新」をクリックすると，著作権者が反映されます。
 
@@ -86,4 +86,4 @@ LMSから一度もCHIBI-CHILOにアクセスしていないユーザーは反映
 
 設定した作成者は，ブック閲覧画面の上部にある，「著作権者」から確認できます．
 
-<figure><img src="../.gitbook/assets/book-author_04.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/book-author_04.png" alt=""><figcaption></figcaption></figure>

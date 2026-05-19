@@ -16,8 +16,8 @@ description: 検索や絞り込みに使用するキーワードを設定出来�
 
 なお，キーワードの設定はトピックにもあります．トピックのキーワード設定については，以下をご覧ください．
 
-{% content-ref url="../3-topic/keyword.md" %}
-[keyword.md](../3-topic/keyword.md)
+{% content-ref url="../topic/keyword.md" %}
+[keyword.md](../topic/keyword.md)
 {% endcontent-ref %}
 
 ## 2．ブックのキーワードの入力・削除

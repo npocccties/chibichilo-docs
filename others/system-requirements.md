@@ -2,7 +2,7 @@
 description: CHIBI-CHILOは現在（2021年5月），次のブラウザで動作確認をおこなっております．
 ---
 
-# - CHIBI-CHILOの動作環境
+# - CHiBi-CHiLOの動作環境
 
 ## パソコン用ブラウザ <a href="#pasokonburauza" id="pasokonburauza"></a>
 

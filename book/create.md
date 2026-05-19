@@ -7,8 +7,8 @@ description: >-
 
 CHIBI-CHILOへのアクセス方法は以下をご確認下さい．
 
-{% content-ref url="../1-chibi-chilo/access.md" %}
-[access.md](../1-chibi-chilo/access.md)
+{% content-ref url="../chibi-chilo/access.md" %}
+[access.md](../chibi-chilo/access.md)
 {% endcontent-ref %}
 
 ## 1. ブックの作成
@@ -52,8 +52,8 @@ CHIBI-CHILOのグローバルメニューの「ブック」をクリックして
 
 ブック編集画面のトピック追加エリアの「+トピックの作成」をクリックすると，トピック作成画面が表示されます．以下を確認し，トピックを作成して下さい．
 
-{% content-ref url="../3-topic/create.md" %}
-[create.md](../3-topic/create.md)
+{% content-ref url="../topic/create.md" %}
+[create.md](../topic/create.md)
 {% endcontent-ref %}
 
 <figure><img src="../.gitbook/assets/book-create_04.png" alt=""><figcaption></figcaption></figure>
@@ -96,8 +96,8 @@ CHIBI-CHILOのグローバルメニューの「ブック」をクリックして
 
 なお，ここでトピックを取り除いても，ブックから外されるだけで，トピック本体が削除されるわけではありません．トピック本体を削除する場合は，以下をご確認下さい．
 
-{% content-ref url="../3-topic/delete.md" %}
-[delete.md](../3-topic/delete.md)
+{% content-ref url="../topic/delete.md" %}
+[delete.md](../topic/delete.md)
 {% endcontent-ref %}
 
 ## 3．メタ情報の追加

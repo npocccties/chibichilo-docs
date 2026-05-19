@@ -16,8 +16,8 @@ description: 検索や絞り込みに使用するキーワードを設定出来�
 
 なお，キーワードの設定はブックにもあります．ブックのキーワード設定については，以下をご覧ください．
 
-{% content-ref url="../2-book/keyword.md" %}
-[keyword.md](../2-book/keyword.md)
+{% content-ref url="../book/keyword.md" %}
+[keyword.md](../book/keyword.md)
 {% endcontent-ref %}
 
 ## 2．キーワードの入力・削除

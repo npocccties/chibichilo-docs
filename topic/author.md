@@ -18,8 +18,8 @@ CHIBI-CHILOでは，作成したユーザーに加えて，任意のユーザー
 
 なお，ブックでも作成者の追加を行いたい場合は，以下を参照してください．
 
-{% content-ref url="../2-book/author.md" %}
-[author.md](../2-book/author.md)
+{% content-ref url="../book/author.md" %}
+[author.md](../book/author.md)
 {% endcontent-ref %}
 
 以下は，トピックの作成者・著作権者の設定方法について説明します．

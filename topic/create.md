@@ -6,8 +6,8 @@ description: CHIBI-CHILOで使用するトピック機能の作成方法や設�
 
 CHIBI-CHILOへのアクセス方法は以下をご確認下さい．
 
-{% content-ref url="../1-chibi-chilo/access.md" %}
-[access.md](../1-chibi-chilo/access.md)
+{% content-ref url="../chibi-chilo/access.md" %}
+[access.md](../chibi-chilo/access.md)
 {% endcontent-ref %}
 
 ## 1. トピックの作成方法
@@ -16,8 +16,8 @@ CHIBI-CHILOへのアクセス方法は以下をご確認下さい．
 
 ブックの作成・編集画面から「+トピックの作成」をクリックします．操作方法については，以下をご参照ください．
 
-{% content-ref url="../2-book/create.md" %}
-[create.md](../2-book/create.md)
+{% content-ref url="../book/create.md" %}
+[create.md](../book/create.md)
 {% endcontent-ref %}
 
 <figure><img src="../.gitbook/assets/topic-create_01.png" alt=""><figcaption></figcaption></figure>
@@ -48,8 +48,8 @@ CHIBI-CHILOのグローバルメニューの「トピック」をクリックし
 
 なお，Wowza対応のCHIBI-CHILOのみ，トピックの編集画面で，動画ファイルのアップロードが行なえます．詳しくは以下をご覧ください．
 
-{% content-ref url="../5-extensions/file-upload.md" %}
-[file-upload.md](../5-extensions/file-upload.md)
+{% content-ref url="../extensions/file-upload.md" %}
+[file-upload.md](../extensions/file-upload.md)
 {% endcontent-ref %}
 
 また，「動画を編集する」をクリックすると，動画の前後カット（トリミング）や，字幕の挿入が行なえます．詳しくは以下をご覧ください．
