@@ -41,4 +41,4 @@ description: 学習者向けの操作方法についてご紹介します．
 
 プレイヤー下部の **「タグを追加」** からトピックごとにタグを設定出来ます．追加した場所とトピックリストに追加したタグが表示されます．
 
-![](../.gitbook/assets/operation_02.png)
+![](../.gitbook/assets/operation_03.png)
