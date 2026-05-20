@@ -50,6 +50,7 @@
 ## 6. 学生向け <a href="#students" id="students"></a>
 
 * [🆕 学習者の操作方法](students/operation.md)
+* [タグ](students/tagu.md)
 
 ## 7. その他 <a href="#others" id="others"></a>
 
